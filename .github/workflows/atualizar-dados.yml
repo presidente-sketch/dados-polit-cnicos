@@ -1,0 +1,31 @@
+name: Atualizar dados do IES
+
+   on:
+     schedule:
+       - cron: "0 4 1 * *"
+     workflow_dispatch: {}
+
+   permissions:
+     contents: write
+
+   jobs:
+     atualizar:
+       runs-on: ubuntu-latest
+       steps:
+         - name: Obter o código
+           uses: actions/checkout@v4
+         - name: Preparar o Python
+           uses: actions/setup-python@v5
+           with:
+             python-version: "3.11"
+         - name: Instalar dependências
+           run: pip install -r requirements.txt
+         - name: Recolher a oferta oficial do IES
+           run: python atualizar_dados_ies.py --reg 12 --ano latest --saida dados_cursos.json
+         - name: Publicar o ficheiro atualizado
+           run: |
+             git config user.name "github-actions[bot]"
+             git config user.email "github-actions[bot]@users.noreply.github.com"
+             git add dados_cursos.json
+             git commit -m "Atualização automática dos dados do IES" || echo "Sem alterações."
+             git push
