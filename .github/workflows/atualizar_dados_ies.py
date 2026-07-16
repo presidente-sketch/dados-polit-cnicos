@@ -41,6 +41,10 @@ import argparse, json, os, re, sys, time, unicodedata, datetime
 import requests
 from bs4 import BeautifulSoup
 
+import socket
+   import urllib3.util.connection as _u3conn
+   _u3conn.allowed_gai_family = lambda: socket.AF_INET
+
 BASE = "https://www.dges.gov.pt/guias"
 HEADERS = {"User-Agent": "FNAEESP-OfertaPolitecnica/1.0 (+geral@fnaeesp.pt)"}
 CACHE_DIR = ".cache_ies"
