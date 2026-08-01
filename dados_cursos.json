@@ -1,0 +1,117 @@
+{
+  "_meta": {
+    "fonte": "Instituto para o Ensino Superior (IES, I.P.) — Guia da Candidatura",
+    "url_fonte": "https://www.dges.gov.pt/guias/indest.asp?reg=12",
+    "tipo": "Ensino Superior Público Politécnico",
+    "ano_nota_ultimo_colocado": "mais recente disponível",
+    "gerado_em": "2026-08-01",
+    "total": 5
+  },
+  "cursos": [
+    {
+      "id": "7110-9076",
+      "name": "Direção e Gestão Hoteleira",
+      "area": "gest",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Estoril",
+      "region": "Setúbal",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 124,
+      "exams": [
+        "Economia",
+        "Geografia",
+        "Matemática",
+        "Matemática A",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9076&code=7110"
+    },
+    {
+      "id": "7110-9163",
+      "name": "Gestão do Lazer e Animação Turística",
+      "area": "edu",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Estoril",
+      "region": "Setúbal",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 89,
+      "exams": [
+        "Geografia",
+        "Inglês",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9163&code=7110"
+    },
+    {
+      "id": "7110-9177",
+      "name": "Gestão Turística",
+      "area": "gest",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Estoril",
+      "region": "Setúbal",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 111,
+      "exams": [
+        "Economia",
+        "Geografia",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9177&code=7110"
+    },
+    {
+      "id": "7110-9183",
+      "name": "Informação Turística",
+      "area": "gest",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Estoril",
+      "region": "Setúbal",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 42,
+      "exams": [
+        "Geografia",
+        "História",
+        "Inglês",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9183&code=7110"
+    },
+    {
+      "id": "7110-9217",
+      "name": "Produção Alimentar em Restauração",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Estoril",
+      "region": "Setúbal",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 63,
+      "exams": [
+        "Biologia e Geologia",
+        "Economia",
+        "Física e Química",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9217&code=7110"
+    }
+  ]
+}
