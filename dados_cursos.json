@@ -4,8 +4,8 @@
     "url_fonte": "https://www.dges.gov.pt/guias/indest.asp?reg=12",
     "tipo": "Ensino Superior Público Politécnico",
     "ano_nota_ultimo_colocado": "mais recente disponível",
-    "gerado_em": "2026-10-01",
-    "total": 285
+    "gerado_em": "2026-11-01",
+    "total": 306
   },
   "cursos": [
     {
@@ -139,28 +139,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L118&code=7105"
     },
     {
-      "id": "7105-9121",
-      "name": "Engenharia Informática e de Computadores",
-      "area": "tec",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Paço De Arcos",
-      "region": "Setúbal",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 36,
-      "exams": [
-        "Economia",
-        "Física e Química",
-        "Geometria Descritiva",
-        "Matemática",
-        "Matemática A"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9121&code=7105"
-    },
-    {
       "id": "7105-9745",
       "name": "Engenharia de Máquinas Marítimas",
       "area": "tec",
@@ -178,27 +156,6 @@
         "Matemática"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9745&code=7105"
-    },
-    {
-      "id": "7105-9926",
-      "name": "Gestão Portuária",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Paço De Arcos",
-      "region": "Setúbal",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 26,
-      "exams": [
-        "Economia",
-        "Geografia",
-        "Inglês",
-        "Matemática"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9926&code=7105"
     },
     {
       "id": "7105-9924",
@@ -222,27 +179,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9924&code=7105"
     },
     {
-      "id": "7105-9789",
-      "name": "Pilotagem",
-      "area": "tec",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Paço De Arcos",
-      "region": "Setúbal",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 31,
-      "exams": [
-        "Economia",
-        "Física e Química",
-        "Geografia",
-        "Matemática"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9789&code=7105"
-    },
-    {
       "id": "3021-9003",
       "name": "Agronomia",
       "area": "tec",
@@ -263,28 +199,6 @@
         "Português"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9003&code=3021"
-    },
-    {
-      "id": "3021-9350",
-      "name": "Ciência e Tecnologia dos Alimentos",
-      "area": "tec",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Beja",
-      "region": "Évora",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 24,
-      "exams": [
-        "Biologia e Geologia",
-        "Física e Química",
-        "Matemática",
-        "Matemática A",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9350&code=3021"
     },
     {
       "id": "3021-9099",
@@ -329,26 +243,6 @@
         "Português"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9563&code=3022"
-    },
-    {
-      "id": "3022-9853",
-      "name": "Educação Básica",
-      "area": "edu",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Beja",
-      "region": "Évora",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 42,
-      "exams": [
-        "Matemática",
-        "Matemática A",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9853&code=3022"
     },
     {
       "id": "3022-9238",
@@ -397,30 +291,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8138&code=7005"
     },
     {
-      "id": "3023-9119",
-      "name": "Engenharia Informática",
-      "area": "tec",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Beja",
-      "region": "Évora",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 59,
-      "exams": [
-        "Biologia e Geologia",
-        "Economia",
-        "Física e Química",
-        "Geometria Descritiva",
-        "Inglês",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=3023"
-    },
-    {
       "id": "3023-9152",
       "name": "Gestão de Empresas",
       "area": "gest",
@@ -443,28 +313,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9152&code=3023"
     },
     {
-      "id": "3023-9994",
-      "name": "Gestão de Empresas (regime pós-laboral)",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Beja",
-      "region": "Évora",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 20,
-      "exams": [
-        "Economia",
-        "História",
-        "Inglês",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9994&code=3023"
-    },
-    {
       "id": "3023-9242",
       "name": "Solicitadoria",
       "area": "gest",
@@ -484,29 +332,6 @@
         "Português"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9242&code=3023"
-    },
-    {
-      "id": "3023-9254",
-      "name": "Turismo",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Beja",
-      "region": "Évora",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 39,
-      "exams": [
-        "Economia",
-        "Filosofia",
-        "Geografia",
-        "História",
-        "Inglês",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9254&code=3023"
     },
     {
       "id": "3041-L029",
@@ -531,29 +356,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L029&code=3041"
     },
     {
-      "id": "3041-9085",
-      "name": "Enfermagem Veterinária",
-      "area": "saude",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Bragança",
-      "region": "Vila Real",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 50,
-      "exams": [
-        "Biologia e Geologia",
-        "Economia",
-        "Física e Química",
-        "Geografia",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9085&code=3041"
-    },
-    {
       "id": "3041-9086",
       "name": "Engenharia Agronómica",
       "area": "tec",
@@ -572,26 +374,6 @@
         "Matemática"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9086&code=3041"
-    },
-    {
-      "id": "3041-9087",
-      "name": "Engenharia Alimentar",
-      "area": "tec",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Bragança",
-      "region": "Vila Real",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 20,
-      "exams": [
-        "Biologia e Geologia",
-        "Física e Química",
-        "Matemática"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9087&code=3041"
     },
     {
       "id": "3041-9099",
@@ -614,8 +396,8 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9099&code=3041"
     },
     {
-      "id": "3041-9129",
-      "name": "Engenharia Zootécnica",
+      "id": "3041-9752",
+      "name": "Enologia",
       "area": "tec",
       "degree": "Licenciatura",
       "inst": "DGES",
@@ -625,13 +407,58 @@
       "ects": 180,
       "years": 3,
       "grade": null,
-      "vagas": 15,
+      "vagas": 12,
       "exams": [
         "Biologia e Geologia",
+        "Economia",
         "Física e Química",
-        "Matemática"
+        "Matemática",
+        "Português"
       ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9129&code=3041"
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9752&code=3041"
+    },
+    {
+      "id": "3045-9165",
+      "name": "Gestão e Administração Pública",
+      "area": "gest",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Mirandela",
+      "region": "Vila Real",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 65,
+      "exams": [
+        "Biologia e Geologia",
+        "Economia",
+        "Filosofia",
+        "Geografia",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9165&code=3045"
+    },
+    {
+      "id": "3045-9773",
+      "name": "Jornalismo e Comunicação",
+      "area": "com",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Mirandela",
+      "region": "Vila Real",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 30,
+      "exams": [
+        "Economia",
+        "Filosofia",
+        "História",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9773&code=3045"
     },
     {
       "id": "3045-9213",
@@ -658,28 +485,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9213&code=3045"
     },
     {
-      "id": "3045-9242",
-      "name": "Solicitadoria",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Mirandela",
-      "region": "Vila Real",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 60,
-      "exams": [
-        "Economia",
-        "Filosofia",
-        "Geografia",
-        "História",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9242&code=3045"
-    },
-    {
       "id": "3045-9254",
       "name": "Turismo",
       "area": "gest",
@@ -700,28 +505,6 @@
         "Português"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9254&code=3045"
-    },
-    {
-      "id": "3042-9933",
-      "name": "Animação e Produção Artística",
-      "area": "edu",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Bragança",
-      "region": "Vila Real",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 30,
-      "exams": [
-        "Desenho",
-        "Filosofia",
-        "Geografia",
-        "Geometria Descritiva",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9933&code=3042"
     },
     {
       "id": "3042-9898",
@@ -746,26 +529,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9898&code=3042"
     },
     {
-      "id": "3042-9563",
-      "name": "Desporto",
-      "area": "edu",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Bragança",
-      "region": "Vila Real",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 50,
-      "exams": [
-        "Biologia e Geologia",
-        "Física e Química",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9563&code=3042"
-    },
-    {
       "id": "3042-9082",
       "name": "Educação Ambiental",
       "area": "edu",
@@ -784,26 +547,6 @@
         "Português"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9082&code=3042"
-    },
-    {
-      "id": "3042-9853",
-      "name": "Educação Básica",
-      "area": "edu",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Bragança",
-      "region": "Vila Real",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 75,
-      "exams": [
-        "Matemática",
-        "Matemática A",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9853&code=3042"
     },
     {
       "id": "3042-9084",
@@ -825,26 +568,6 @@
         "Português"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9084&code=3042"
-    },
-    {
-      "id": "3042-8323",
-      "name": "Línguas Estrangeiras: Inglês e Espanhol",
-      "area": "com",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Bragança",
-      "region": "Vila Real",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 35,
-      "exams": [
-        "Espanhol",
-        "Inglês",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8323&code=3042"
     },
     {
       "id": "3042-8374",
@@ -869,28 +592,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8374&code=3042"
     },
     {
-      "id": "3042-L175",
-      "name": "Música em Contextos Comunitários",
-      "area": "art",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Bragança",
-      "region": "Vila Real",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 25,
-      "exams": [
-        "Biologia e Geologia",
-        "Geografia",
-        "História",
-        "Inglês",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L175&code=3042"
-    },
-    {
       "id": "3042-L088",
       "name": "Relações Lusófonas e Língua Portuguesa",
       "area": "com",
@@ -912,27 +613,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L088&code=3042"
     },
     {
-      "id": "3046-9076",
-      "name": "Direção e Gestão Hoteleira",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Mapa",
-      "region": "Vila Real",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 20,
-      "exams": [
-        "Biologia e Geologia",
-        "Economia",
-        "Geografia",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9076&code=3046"
-    },
-    {
       "id": "3046-L136",
       "name": "Osteopatia",
       "area": "saude",
@@ -950,28 +630,6 @@
         "Física e Química"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L136&code=3046"
-    },
-    {
-      "id": "3046-L361",
-      "name": "Restauração e Tecnologia Alimentar",
-      "area": "tec",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Mapa",
-      "region": "Vila Real",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 20,
-      "exams": [
-        "Biologia e Geologia",
-        "Economia",
-        "Física e Química",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L361&code=3046"
     },
     {
       "id": "7015-L068",
@@ -995,27 +653,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L068&code=7015"
     },
     {
-      "id": "7015-8149",
-      "name": "Dietética e Nutrição",
-      "area": "saude",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Bragança",
-      "region": "Vila Real",
-      "ects": 240,
-      "years": 4,
-      "grade": null,
-      "vagas": 30,
-      "exams": [
-        "Biologia e Geologia",
-        "Física e Química",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8149&code=7015"
-    },
-    {
       "id": "7015-9500",
       "name": "Enfermagem",
       "area": "saude",
@@ -1035,27 +672,6 @@
         "Português"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=7015"
-    },
-    {
-      "id": "7015-9501",
-      "name": "Enfermagem (entrada no 2.º semestre)",
-      "area": "saude",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Bragança",
-      "region": "Vila Real",
-      "ects": 240,
-      "years": 4,
-      "grade": null,
-      "vagas": 45,
-      "exams": [
-        "Biologia e Geologia",
-        "Física e Química",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9501&code=7015"
     },
     {
       "id": "7015-9549",
@@ -1079,27 +695,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9549&code=7015"
     },
     {
-      "id": "7015-9833",
-      "name": "Gerontologia",
-      "area": "edu",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Bragança",
-      "region": "Vila Real",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 20,
-      "exams": [
-        "Biologia e Geologia",
-        "Física e Química",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9833&code=7015"
-    },
-    {
       "id": "7016-9504",
       "name": "Fisioterapia",
       "area": "saude",
@@ -1121,27 +716,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9504&code=7016"
     },
     {
-      "id": "3043-9056",
-      "name": "Contabilidade",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Bragança",
-      "region": "Vila Real",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 60,
-      "exams": [
-        "Biologia e Geologia",
-        "Economia",
-        "Geografia",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9056&code=3043"
-    },
-    {
       "id": "3043-9089",
       "name": "Engenharia Civil",
       "area": "tec",
@@ -1161,30 +735,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9089&code=3043"
     },
     {
-      "id": "3043-L209",
-      "name": "Engenharia Eletrotécnica e de Computadores",
-      "area": "tec",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Bragança",
-      "region": "Vila Real",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 40,
-      "exams": [
-        "Biologia e Geologia",
-        "Desenho",
-        "Economia",
-        "Física e Química",
-        "Geometria Descritiva",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L209&code=3043"
-    },
-    {
       "id": "3043-9910",
       "name": "Engenharia de Energias Renováveis",
       "area": "tec",
@@ -1202,25 +752,6 @@
         "Matemática"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9910&code=3043"
-    },
-    {
-      "id": "3043-9104",
-      "name": "Engenharia e Gestão Industrial",
-      "area": "tec",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Bragança",
-      "region": "Vila Real",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 15,
-      "exams": [
-        "Física e Química",
-        "Matemática"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9104&code=3043"
     },
     {
       "id": "3043-9119",
@@ -1247,25 +778,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=3043"
     },
     {
-      "id": "3043-9123",
-      "name": "Engenharia Mecânica",
-      "area": "tec",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Bragança",
-      "region": "Vila Real",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 40,
-      "exams": [
-        "Física e Química",
-        "Matemática"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9123&code=3043"
-    },
-    {
       "id": "3043-9125",
       "name": "Engenharia Química",
       "area": "tec",
@@ -1283,27 +795,6 @@
         "Matemática"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9125&code=3043"
-    },
-    {
-      "id": "3043-9147",
-      "name": "Gestão",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Bragança",
-      "region": "Vila Real",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 110,
-      "exams": [
-        "Biologia e Geologia",
-        "Economia",
-        "Geografia",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9147&code=3043"
     },
     {
       "id": "3043-A019",
@@ -1325,27 +816,6 @@
         "Português"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=A019&code=3043"
-    },
-    {
-      "id": "3043-L069",
-      "name": "Tecnologia Biomédica",
-      "area": "saude",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Bragança",
-      "region": "Vila Real",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 40,
-      "exams": [
-        "Biologia e Geologia",
-        "Física e Química",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L069&code=3043"
     },
     {
       "id": "3043-L423",
@@ -1372,28 +842,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L423&code=3043"
     },
     {
-      "id": "3051-9003",
-      "name": "Agronomia",
-      "area": "tec",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Castelo Branco",
-      "region": "Castelo Branco",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 20,
-      "exams": [
-        "Biologia e Geologia",
-        "Economia",
-        "Física e Química",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9003&code=3051"
-    },
-    {
       "id": "3051-L093",
       "name": "Biotecnologia Alimentar",
       "area": "tec",
@@ -1416,28 +864,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L093&code=3051"
     },
     {
-      "id": "3051-9085",
-      "name": "Enfermagem Veterinária",
-      "area": "saude",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Castelo Branco",
-      "region": "Castelo Branco",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 40,
-      "exams": [
-        "Biologia e Geologia",
-        "Economia",
-        "Física e Química",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9085&code=3051"
-    },
-    {
       "id": "3051-8397",
       "name": "Engenharia de Proteção Civil",
       "area": "tec",
@@ -1456,30 +882,6 @@
         "Matemática"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8397&code=3051"
-    },
-    {
-      "id": "3055-L158",
-      "name": "Design de Comunicação e Audiovisual",
-      "area": "art",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Castelo Branco",
-      "region": "Castelo Branco",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 65,
-      "exams": [
-        "Desenho",
-        "Filosofia",
-        "Geometria Descritiva",
-        "História",
-        "Inglês",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L158&code=3055"
     },
     {
       "id": "3055-9725",
@@ -1506,6 +908,28 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9725&code=3055"
     },
     {
+      "id": "3055-L184",
+      "name": "Música, variante de Formação Musical, Direção Coral e Instrumental",
+      "area": "art",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Castelo Branco",
+      "region": "Castelo Branco",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 6,
+      "exams": [
+        "Filosofia",
+        "História",
+        "Inglês",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L184&code=3055"
+    },
+    {
       "id": "3055-9816",
       "name": "Música, variante de Música Eletrónica e Produção Musical",
       "area": "tec",
@@ -1528,28 +952,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9816&code=3055"
     },
     {
-      "id": "3055-9836",
-      "name": "Música, variante de Canto",
-      "area": "art",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Castelo Branco",
-      "region": "Castelo Branco",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 3,
-      "exams": [
-        "Filosofia",
-        "História",
-        "Inglês",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9836&code=3055"
-    },
-    {
       "id": "3052-9850",
       "name": "Desporto e Atividade Física",
       "area": "edu",
@@ -1568,26 +970,6 @@
         "Português"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9850&code=3052"
-    },
-    {
-      "id": "3052-9853",
-      "name": "Educação Básica",
-      "area": "edu",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Castelo Branco",
-      "region": "Castelo Branco",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 42,
-      "exams": [
-        "Matemática",
-        "Matemática A",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9853&code=3052"
     },
     {
       "id": "3052-9485",
@@ -1613,9 +995,9 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9485&code=3052"
     },
     {
-      "id": "3052-9238",
-      "name": "Serviço Social",
-      "area": "edu",
+      "id": "3052-L386",
+      "name": "Treino Desportivo e Preparação Física",
+      "area": "gest",
       "degree": "Licenciatura",
       "inst": "DGES",
       "instName": "DGES",
@@ -1624,14 +1006,33 @@
       "ects": 180,
       "years": 3,
       "grade": null,
-      "vagas": 61,
+      "vagas": 25,
+      "exams": [
+        "Biologia e Geologia",
+        "Geografia",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L386&code=3052"
+    },
+    {
+      "id": "3054-9147",
+      "name": "Gestão",
+      "area": "gest",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Idanha",
+      "region": "Castelo Branco",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 45,
       "exams": [
         "Economia",
         "Geografia",
-        "História",
         "Português"
       ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9238&code=3052"
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9147&code=3054"
     },
     {
       "id": "3054-9242",
@@ -1653,27 +1054,6 @@
         "Português"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9242&code=3054"
-    },
-    {
-      "id": "3054-9254",
-      "name": "Turismo",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Idanha",
-      "region": "Castelo Branco",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 25,
-      "exams": [
-        "Economia",
-        "Geografia",
-        "Inglês",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9254&code=3054"
     },
     {
       "id": "7020-L068",
@@ -1698,8 +1078,8 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L068&code=7020"
     },
     {
-      "id": "7020-9500",
-      "name": "Enfermagem",
+      "id": "7020-L067",
+      "name": "Fisiologia Clínica",
       "area": "saude",
       "degree": "Licenciatura",
       "inst": "DGES",
@@ -1709,7 +1089,7 @@
       "ects": 240,
       "years": 4,
       "grade": null,
-      "vagas": 54,
+      "vagas": 30,
       "exams": [
         "Biologia e Geologia",
         "Filosofia",
@@ -1717,27 +1097,96 @@
         "Matemática",
         "Português"
       ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=7020"
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L067&code=7020"
     },
     {
-      "id": "3033-L260",
-      "name": "Design Audiovisual",
-      "area": "art",
+      "id": "7020-L066",
+      "name": "Imagem Médica e Radioterapia",
+      "area": "saude",
       "degree": "Licenciatura",
       "inst": "DGES",
       "instName": "DGES",
-      "city": "Barcelos",
-      "region": "Porto",
+      "city": "Castelo Branco",
+      "region": "Castelo Branco",
+      "ects": 240,
+      "years": 4,
+      "grade": null,
+      "vagas": 24,
+      "exams": [
+        "Biologia e Geologia",
+        "Filosofia",
+        "Física e Química",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L066&code=7020"
+    },
+    {
+      "id": "3053-9111",
+      "name": "Engenharia Eletrotécnica e das Telecomunicações",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Castelo Branco",
+      "region": "Castelo Branco",
       "ects": 180,
       "years": 3,
       "grade": null,
-      "vagas": 31,
+      "vagas": 30,
       "exams": [
+        "Biologia e Geologia",
         "Desenho",
+        "Economia",
+        "Física e Química",
         "Geometria Descritiva",
+        "Matemática",
         "Português"
       ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L260&code=3033"
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9111&code=3053"
+    },
+    {
+      "id": "3053-9104",
+      "name": "Engenharia e Gestão Industrial",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Castelo Branco",
+      "region": "Castelo Branco",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 15,
+      "exams": [
+        "Física e Química",
+        "Matemática"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9104&code=3053"
+    },
+    {
+      "id": "3053-L275",
+      "name": "Informática e Multimédia",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Castelo Branco",
+      "region": "Castelo Branco",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 35,
+      "exams": [
+        "Economia",
+        "Física e Química",
+        "Geografia",
+        "Geometria Descritiva",
+        "Inglês",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L275&code=3053"
     },
     {
       "id": "3033-9470",
@@ -1760,26 +1209,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9470&code=3033"
     },
     {
-      "id": "3033-9873",
-      "name": "Design Gráfico (regime pós-laboral)",
-      "area": "art",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Barcelos",
-      "region": "Porto",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 25,
-      "exams": [
-        "Desenho",
-        "Geometria Descritiva",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9873&code=3033"
-    },
-    {
       "id": "3033-9074",
       "name": "Design Industrial",
       "area": "art",
@@ -1798,25 +1227,6 @@
         "Português"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9074&code=3033"
-    },
-    {
-      "id": "3036-9563",
-      "name": "Desporto",
-      "area": "edu",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Guimarães",
-      "region": "Porto",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 20,
-      "exams": [
-        "Biologia e Geologia",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9563&code=3036"
     },
     {
       "id": "3031-9056",
@@ -1839,26 +1249,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9056&code=3031"
     },
     {
-      "id": "3031-9869",
-      "name": "Contabilidade (regime pós-laboral)",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Barcelos",
-      "region": "Porto",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 25,
-      "exams": [
-        "Economia",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9869&code=3031"
-    },
-    {
       "id": "3031-9140",
       "name": "Finanças",
       "area": "gest",
@@ -1877,26 +1267,6 @@
         "Português"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9140&code=3031"
-    },
-    {
-      "id": "3031-9759",
-      "name": "Fiscalidade",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Barcelos",
-      "region": "Porto",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 31,
-      "exams": [
-        "Economia",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9759&code=3031"
     },
     {
       "id": "3031-9990",
@@ -1919,26 +1289,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9990&code=3031"
     },
     {
-      "id": "3031-9152",
-      "name": "Gestão de Empresas",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Barcelos",
-      "region": "Porto",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 40,
-      "exams": [
-        "Economia",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9152&code=3031"
-    },
-    {
       "id": "3031-9994",
       "name": "Gestão de Empresas (regime pós-laboral)",
       "area": "gest",
@@ -1957,26 +1307,6 @@
         "Português"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9994&code=3031"
-    },
-    {
-      "id": "3031-L140",
-      "name": "Gestão Pública",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Barcelos",
-      "region": "Porto",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 40,
-      "exams": [
-        "Economia",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L140&code=3031"
     },
     {
       "id": "3031-9242",
@@ -1998,27 +1328,6 @@
         "Português"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9242&code=3031"
-    },
-    {
-      "id": "3031-8015",
-      "name": "Solicitadoria (regime pós-laboral)",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Barcelos",
-      "region": "Porto",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 25,
-      "exams": [
-        "Economia",
-        "Filosofia",
-        "História",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8015&code=3031"
     },
     {
       "id": "3034-L373",
@@ -2044,52 +1353,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L373&code=3034"
     },
     {
-      "id": "3034-8156",
-      "name": "Gestão de Atividades Turísticas",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Barcelos",
-      "region": "Porto",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 44,
-      "exams": [
-        "Economia",
-        "Geografia",
-        "História",
-        "Inglês",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8156&code=3034"
-    },
-    {
-      "id": "3034-8341",
-      "name": "Gestão de Atividades Turísticas (regime pós-laboral)",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Barcelos",
-      "region": "Porto",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 30,
-      "exams": [
-        "Economia",
-        "Geografia",
-        "História",
-        "Inglês",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8341&code=3034"
-    },
-    {
       "id": "3034-9173",
       "name": "Gestão Hoteleira",
       "area": "gest",
@@ -2111,27 +1374,6 @@
         "Português"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9173&code=3034"
-    },
-    {
-      "id": "3032-L394",
-      "name": "Engenharia de Dados e Inteligência Artificial",
-      "area": "tec",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Barcelos",
-      "region": "Porto",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 25,
-      "exams": [
-        "Biologia e Geologia",
-        "Física e Química",
-        "Matemática A",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L394&code=3032"
     },
     {
       "id": "3032-9112",
@@ -2157,27 +1399,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9112&code=3032"
     },
     {
-      "id": "3032-8311",
-      "name": "Engenharia em Desenvolvimento de Jogos Digitais",
-      "area": "tec",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Barcelos",
-      "region": "Porto",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 30,
-      "exams": [
-        "Física e Química",
-        "Geometria Descritiva",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8311&code=3032"
-    },
-    {
       "id": "3032-9104",
       "name": "Engenharia e Gestão Industrial",
       "area": "tec",
@@ -2201,27 +1422,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9104&code=3032"
     },
     {
-      "id": "3032-8409",
-      "name": "Engenharia de Sistemas Informáticos",
-      "area": "tec",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Barcelos",
-      "region": "Porto",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 33,
-      "exams": [
-        "Economia",
-        "Física e Química",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8409&code=3032"
-    },
-    {
       "id": "3032-8417",
       "name": "Engenharia de Sistemas Informáticos (regime pós-laboral)",
       "area": "tec",
@@ -2241,27 +1441,6 @@
         "Português"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8417&code=3032"
-    },
-    {
-      "id": "3061-9003",
-      "name": "Agronomia",
-      "area": "tec",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Coimbra",
-      "region": "Leiria",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 26,
-      "exams": [
-        "Biologia e Geologia",
-        "Física e Química",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9003&code=3061"
     },
     {
       "id": "3061-9016",
@@ -2284,9 +1463,9 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9016&code=3061"
     },
     {
-      "id": "3062-9675",
-      "name": "Animação Socioeducativa",
-      "area": "edu",
+      "id": "3061-9085",
+      "name": "Enfermagem Veterinária",
+      "area": "saude",
       "degree": "Licenciatura",
       "inst": "DGES",
       "instName": "DGES",
@@ -2295,20 +1474,60 @@
       "ects": 180,
       "years": 3,
       "grade": null,
-      "vagas": 39,
+      "vagas": 30,
       "exams": [
         "Biologia e Geologia",
-        "Filosofia",
-        "Geografia",
-        "História",
-        "Português"
+        "Física e Química",
+        "Matemática"
       ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9675&code=3062"
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9085&code=3061"
     },
     {
-      "id": "3062-L095",
-      "name": "Gastronomia",
-      "area": "gest",
+      "id": "3061-L348",
+      "name": "Tecnologia e Gestão do Ambiente",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Coimbra",
+      "region": "Leiria",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 28,
+      "exams": [
+        "Biologia e Geologia",
+        "Física e Química",
+        "Matemática",
+        "Matemática A"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L348&code=3061"
+    },
+    {
+      "id": "3061-L003",
+      "name": "Zootecnia",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Coimbra",
+      "region": "Leiria",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 26,
+      "exams": [
+        "Biologia e Geologia",
+        "Física e Química",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L003&code=3061"
+    },
+    {
+      "id": "3062-8093",
+      "name": "Animação Socioeducativa (regime pós-laboral)",
+      "area": "edu",
       "degree": "Licenciatura",
       "inst": "DGES",
       "instName": "DGES",
@@ -2319,11 +1538,102 @@
       "grade": null,
       "vagas": 20,
       "exams": [
-        "Economia",
+        "Biologia e Geologia",
+        "Filosofia",
         "Geografia",
+        "História",
         "Português"
       ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L095&code=3062"
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8093&code=3062"
+    },
+    {
+      "id": "3062-9894",
+      "name": "Comunicação e Design Multimédia",
+      "area": "art",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Coimbra",
+      "region": "Leiria",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 39,
+      "exams": [
+        "Geometria Descritiva",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9894&code=3062"
+    },
+    {
+      "id": "3062-8342",
+      "name": "Comunicação Organizacional (regime pós-laboral)",
+      "area": "com",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Coimbra",
+      "region": "Leiria",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 25,
+      "exams": [
+        "Economia",
+        "Filosofia",
+        "Geografia",
+        "História",
+        "Inglês",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8342&code=3062"
+    },
+    {
+      "id": "3062-9731",
+      "name": "Desporto e Lazer",
+      "area": "edu",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Coimbra",
+      "region": "Leiria",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 30,
+      "exams": [
+        "Biologia e Geologia",
+        "Filosofia",
+        "Física e Química",
+        "Matemática",
+        "Matemática A",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9731&code=3062"
+    },
+    {
+      "id": "3062-L163",
+      "name": "Estudos Musicais Aplicados",
+      "area": "art",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Coimbra",
+      "region": "Leiria",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 18,
+      "exams": [
+        "Filosofia",
+        "Geometria Descritiva",
+        "História",
+        "Inglês",
+        "Literatura Portuguesa",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L163&code=3062"
     },
     {
       "id": "3062-L380",
@@ -2346,28 +1656,6 @@
         "Português"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L380&code=3062"
-    },
-    {
-      "id": "3062-9774",
-      "name": "Língua Gestual Portuguesa",
-      "area": "com",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Coimbra",
-      "region": "Leiria",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 30,
-      "exams": [
-        "Filosofia",
-        "História",
-        "Inglês",
-        "Literatura Portuguesa",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9774&code=3062"
     },
     {
       "id": "3062-9899",
@@ -2394,26 +1682,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9899&code=3062"
     },
     {
-      "id": "3062-9254",
-      "name": "Turismo",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Coimbra",
-      "region": "Leiria",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 35,
-      "exams": [
-        "Economia",
-        "Geografia",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9254&code=3062"
-    },
-    {
       "id": "3062-8114",
       "name": "Turismo (regime pós-laboral)",
       "area": "gest",
@@ -2434,26 +1702,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8114&code=3062"
     },
     {
-      "id": "3065-9058",
-      "name": "Contabilidade e Administração",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Oliveira Do Hospital",
-      "region": "Leiria",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 38,
-      "exams": [
-        "Economia",
-        "Geografia",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9058&code=3065"
-    },
-    {
       "id": "3065-9119",
       "name": "Engenharia Informática",
       "area": "tec",
@@ -2470,26 +1718,6 @@
         "Consultar provas no IES"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=3065"
-    },
-    {
-      "id": "3065-9147",
-      "name": "Gestão",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Oliveira Do Hospital",
-      "region": "Leiria",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 36,
-      "exams": [
-        "Economia",
-        "Geografia",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9147&code=3065"
     },
     {
       "id": "3065-L305",
@@ -2514,28 +1742,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L305&code=3065"
     },
     {
-      "id": "3065-9895",
-      "name": "Gestão do Território",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Oliveira Do Hospital",
-      "region": "Leiria",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 20,
-      "exams": [
-        "Economia",
-        "Geografia",
-        "Geometria Descritiva",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9895&code=3065"
-    },
-    {
       "id": "3065-9205",
       "name": "Marketing",
       "area": "gest",
@@ -2554,28 +1760,6 @@
         "Português"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9205&code=3065"
-    },
-    {
-      "id": "7210-8141",
-      "name": "Audiologia",
-      "area": "saude",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Coimbra",
-      "region": "Leiria",
-      "ects": 240,
-      "years": 4,
-      "grade": null,
-      "vagas": 32,
-      "exams": [
-        "Biologia e Geologia",
-        "Física e Química",
-        "Geografia",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8141&code=7210"
     },
     {
       "id": "7210-L068",
@@ -2600,28 +1784,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L068&code=7210"
     },
     {
-      "id": "7210-8149",
-      "name": "Dietética e Nutrição",
-      "area": "saude",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Coimbra",
-      "region": "Leiria",
-      "ects": 240,
-      "years": 4,
-      "grade": null,
-      "vagas": 41,
-      "exams": [
-        "Biologia e Geologia",
-        "Física e Química",
-        "Geografia",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8149&code=7210"
-    },
-    {
       "id": "7210-9549",
       "name": "Farmácia",
       "area": "saude",
@@ -2642,28 +1804,6 @@
         "Português"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9549&code=7210"
-    },
-    {
-      "id": "7210-L067",
-      "name": "Fisiologia Clínica",
-      "area": "saude",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Coimbra",
-      "region": "Leiria",
-      "ects": 240,
-      "years": 4,
-      "grade": null,
-      "vagas": 41,
-      "exams": [
-        "Biologia e Geologia",
-        "Física e Química",
-        "Geografia",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L067&code=7210"
     },
     {
       "id": "7210-9504",
@@ -2688,28 +1828,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9504&code=7210"
     },
     {
-      "id": "7210-L066",
-      "name": "Imagem Médica e Radioterapia",
-      "area": "saude",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Coimbra",
-      "region": "Leiria",
-      "ects": 240,
-      "years": 4,
-      "grade": null,
-      "vagas": 41,
-      "exams": [
-        "Biologia e Geologia",
-        "Física e Química",
-        "Geografia",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L066&code=7210"
-    },
-    {
       "id": "7210-9861",
       "name": "Saúde Ambiental",
       "area": "saude",
@@ -2730,28 +1848,6 @@
         "Português"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9861&code=7210"
-    },
-    {
-      "id": "7210-8138",
-      "name": "Terapia Ocupacional",
-      "area": "saude",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Coimbra",
-      "region": "Leiria",
-      "ects": 240,
-      "years": 3,
-      "grade": null,
-      "vagas": 34,
-      "exams": [
-        "Biologia e Geologia",
-        "Física e Química",
-        "Geografia",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8138&code=7210"
     },
     {
       "id": "3063-8276",
@@ -2775,27 +1871,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8276&code=3063"
     },
     {
-      "id": "3063-L310",
-      "name": "Ciência de Dados para a Gestão",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Coimbra",
-      "region": "Leiria",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 37,
-      "exams": [
-        "Economia",
-        "Filosofia",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L310&code=3063"
-    },
-    {
       "id": "3063-L056",
       "name": "Comércio e Relações Económicas Internacionais",
       "area": "gest",
@@ -2815,27 +1890,6 @@
         "Português"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L056&code=3063"
-    },
-    {
-      "id": "3063-9061",
-      "name": "Contabilidade e Auditoria",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Coimbra",
-      "region": "Leiria",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 75,
-      "exams": [
-        "Economia",
-        "Geografia",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9061&code=3063"
     },
     {
       "id": "3063-9722",
@@ -2859,27 +1913,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9722&code=3063"
     },
     {
-      "id": "3063-8029",
-      "name": "Finanças e Contabilidade",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Coimbra",
-      "region": "Leiria",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 30,
-      "exams": [
-        "Economia",
-        "Geografia",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8029&code=3063"
-    },
-    {
       "id": "3063-9152",
       "name": "Gestão de Empresas",
       "area": "gest",
@@ -2901,26 +1934,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9152&code=3063"
     },
     {
-      "id": "3063-9157",
-      "name": "Gestão de Recursos Humanos",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Coimbra",
-      "region": "Leiria",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 50,
-      "exams": [
-        "Economia",
-        "Geografia",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9157&code=3063"
-    },
-    {
       "id": "3063-9186",
       "name": "Informática de Gestão",
       "area": "tec",
@@ -2940,27 +1953,6 @@
         "Português"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9186&code=3063"
-    },
-    {
-      "id": "3063-L023",
-      "name": "Marketing e Negócios Internacionais",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Coimbra",
-      "region": "Leiria",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 57,
-      "exams": [
-        "Economia",
-        "Geografia",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L023&code=3063"
     },
     {
       "id": "3063-9801",
@@ -2985,26 +1977,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9801&code=3063"
     },
     {
-      "id": "3064-9540",
-      "name": "Bioengenharia",
-      "area": "tec",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Coimbra",
-      "region": "Leiria",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 27,
-      "exams": [
-        "Biologia e Geologia",
-        "Física e Química",
-        "Matemática"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9540&code=3064"
-    },
-    {
       "id": "3064-9455",
       "name": "Engenharia Biomédica",
       "area": "saude",
@@ -3022,25 +1994,6 @@
         "Matemática"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9455&code=3064"
-    },
-    {
-      "id": "3064-9089",
-      "name": "Engenharia Civil",
-      "area": "tec",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Coimbra",
-      "region": "Leiria",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 30,
-      "exams": [
-        "Física e Química",
-        "Matemática"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9089&code=3064"
     },
     {
       "id": "3064-9105",
@@ -3062,29 +2015,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9105&code=3064"
     },
     {
-      "id": "3064-L209",
-      "name": "Engenharia Eletrotécnica e de Computadores",
-      "area": "tec",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Coimbra",
-      "region": "Leiria",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 50,
-      "exams": [
-        "Biologia e Geologia",
-        "Economia",
-        "Física e Química",
-        "Geometria Descritiva",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L209&code=3064"
-    },
-    {
       "id": "3064-9104",
       "name": "Engenharia e Gestão Industrial",
       "area": "tec",
@@ -3102,28 +2032,6 @@
         "Matemática"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9104&code=3064"
-    },
-    {
-      "id": "3064-9119",
-      "name": "Engenharia Informática",
-      "area": "tec",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Coimbra",
-      "region": "Leiria",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 140,
-      "exams": [
-        "Biologia e Geologia",
-        "Física e Química",
-        "Geometria Descritiva",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=3064"
     },
     {
       "id": "3064-9770",
@@ -3148,28 +2056,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9770&code=3064"
     },
     {
-      "id": "3064-9885",
-      "name": "Engenharia Informática (regime pós-laboral)",
-      "area": "tec",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Coimbra",
-      "region": "Leiria",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 21,
-      "exams": [
-        "Biologia e Geologia",
-        "Física e Química",
-        "Geometria Descritiva",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9885&code=3064"
-    },
-    {
       "id": "3064-9123",
       "name": "Engenharia Mecânica",
       "area": "tec",
@@ -3187,29 +2073,6 @@
         "Matemática"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9123&code=3064"
-    },
-    {
-      "id": "3064-L155",
-      "name": "Gestão Sustentável das Cidades",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Coimbra",
-      "region": "Leiria",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 35,
-      "exams": [
-        "Biologia e Geologia",
-        "Economia",
-        "Física e Química",
-        "Geometria Descritiva",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L155&code=3064"
     },
     {
       "id": "3064-L226",
@@ -3234,27 +2097,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L226&code=3064"
     },
     {
-      "id": "3091-9005",
-      "name": "Animação Sociocultural",
-      "area": "edu",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Guarda",
-      "region": "Castelo Branco",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 15,
-      "exams": [
-        "Biologia e Geologia",
-        "Filosofia",
-        "Geografia",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9005&code=3091"
-    },
-    {
       "id": "3091-8339",
       "name": "Comunicação Multimédia",
       "area": "art",
@@ -3273,26 +2115,6 @@
         "Português"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8339&code=3091"
-    },
-    {
-      "id": "3091-9652",
-      "name": "Comunicação e Relações Públicas",
-      "area": "com",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Guarda",
-      "region": "Castelo Branco",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 32,
-      "exams": [
-        "Filosofia",
-        "História",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9652&code=3091"
     },
     {
       "id": "3091-9563",
@@ -3315,26 +2137,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9563&code=3091"
     },
     {
-      "id": "3091-L034",
-      "name": "Desporto, Condição Física e Saúde",
-      "area": "saude",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Guarda",
-      "region": "Castelo Branco",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 20,
-      "exams": [
-        "Biologia e Geologia",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L034&code=3091"
-    },
-    {
       "id": "3091-9853",
       "name": "Educação Básica",
       "area": "edu",
@@ -3353,26 +2155,6 @@
         "Português"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9853&code=3091"
-    },
-    {
-      "id": "3091-9473",
-      "name": "Educação Social Gerontológica",
-      "area": "edu",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Guarda",
-      "region": "Castelo Branco",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 15,
-      "exams": [
-        "Filosofia",
-        "História",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9473&code=3091"
     },
     {
       "id": "7040-L101",
@@ -3396,27 +2178,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L101&code=7040"
     },
     {
-      "id": "7040-L068",
-      "name": "Ciências Biomédicas Laboratoriais",
-      "area": "saude",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Guarda",
-      "region": "Castelo Branco",
-      "ects": 240,
-      "years": 4,
-      "grade": null,
-      "vagas": 20,
-      "exams": [
-        "Biologia e Geologia",
-        "Física e Química",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L068&code=7040"
-    },
-    {
       "id": "7040-9500",
       "name": "Enfermagem",
       "area": "saude",
@@ -3438,27 +2199,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=7040"
     },
     {
-      "id": "7040-9549",
-      "name": "Farmácia",
-      "area": "saude",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Guarda",
-      "region": "Castelo Branco",
-      "ects": 240,
-      "years": 4,
-      "grade": null,
-      "vagas": 35,
-      "exams": [
-        "Biologia e Geologia",
-        "Física e Química",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9549&code=7040"
-    },
-    {
       "id": "3092-L283",
       "name": "Ciência de Dados e Inteligência Artificial",
       "area": "tec",
@@ -3478,27 +2218,6 @@
         "Português"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L283&code=3092"
-    },
-    {
-      "id": "3092-9056",
-      "name": "Contabilidade",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Guarda",
-      "region": "Castelo Branco",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 30,
-      "exams": [
-        "Economia",
-        "Filosofia",
-        "Geografia",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9056&code=3092"
     },
     {
       "id": "3092-L335",
@@ -3523,27 +2242,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L335&code=3092"
     },
     {
-      "id": "3092-9855",
-      "name": "Energia e Ambiente",
-      "area": "tec",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Guarda",
-      "region": "Castelo Branco",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 10,
-      "exams": [
-        "Biologia e Geologia",
-        "Física e Química",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9855&code=3092"
-    },
-    {
       "id": "3092-9089",
       "name": "Engenharia Civil",
       "area": "tec",
@@ -3561,6 +2259,88 @@
         "Matemática"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9089&code=3092"
+    },
+    {
+      "id": "3092-9128",
+      "name": "Engenharia Topográfica",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Guarda",
+      "region": "Castelo Branco",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 10,
+      "exams": [
+        "Física e Química",
+        "Matemática"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9128&code=3092"
+    },
+    {
+      "id": "3092-9157",
+      "name": "Gestão de Recursos Humanos",
+      "area": "gest",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Guarda",
+      "region": "Castelo Branco",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 40,
+      "exams": [
+        "Economia",
+        "Filosofia",
+        "Inglês",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9157&code=3092"
+    },
+    {
+      "id": "3092-L196",
+      "name": "Mecânica e Informática Industrial",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Guarda",
+      "region": "Castelo Branco",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 30,
+      "exams": [
+        "Física e Química",
+        "Geometria Descritiva",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L196&code=3092"
+    },
+    {
+      "id": "3095-L061",
+      "name": "Gestão do Turismo e da Hospitalidade",
+      "area": "gest",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Seia",
+      "region": "Castelo Branco",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 12,
+      "exams": [
+        "Economia",
+        "História",
+        "Inglês",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L061&code=3095"
     },
     {
       "id": "3095-9484",
@@ -3584,28 +2364,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9484&code=3095"
     },
     {
-      "id": "3095-9255",
-      "name": "Turismo e Lazer",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Seia",
-      "region": "Castelo Branco",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 12,
-      "exams": [
-        "Biologia e Geologia",
-        "Economia",
-        "Geografia",
-        "História",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9255&code=3095"
-    },
-    {
       "id": "3103-9007",
       "name": "Artes Plásticas",
       "area": "art",
@@ -3627,26 +2385,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9007&code=3103"
     },
     {
-      "id": "3103-L257",
-      "name": "Design de Espaços",
-      "area": "art",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Caldas Da Rainha",
-      "region": "Setúbal",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 27,
-      "exams": [
-        "Desenho",
-        "Geometria Descritiva",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L257&code=3103"
-    },
-    {
       "id": "3103-9729",
       "name": "Design Gráfico e Multimédia",
       "area": "art",
@@ -3664,25 +2402,6 @@
         "Português"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9729&code=3103"
-    },
-    {
-      "id": "3103-8126",
-      "name": "Design Gráfico e Multimédia (regime pós-laboral)",
-      "area": "art",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Caldas Da Rainha",
-      "region": "Setúbal",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 30,
-      "exams": [
-        "Desenho",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8126&code=3103"
     },
     {
       "id": "3103-9074",
@@ -3703,26 +2422,6 @@
         "Português"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9074&code=3103"
-    },
-    {
-      "id": "3103-8525",
-      "name": "Design de Produto - Cerâmica e Vidro",
-      "area": "art",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Caldas Da Rainha",
-      "region": "Setúbal",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 24,
-      "exams": [
-        "Desenho",
-        "Geometria Descritiva",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8525&code=3103"
     },
     {
       "id": "3103-L127",
@@ -3747,28 +2446,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L127&code=3103"
     },
     {
-      "id": "3103-9457",
-      "name": "Som e Imagem",
-      "area": "art",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Caldas Da Rainha",
-      "region": "Setúbal",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 65,
-      "exams": [
-        "Desenho",
-        "Física e Química",
-        "Geometria Descritiva",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9457&code=3103"
-    },
-    {
       "id": "3103-9243",
       "name": "Teatro",
       "area": "art",
@@ -3789,27 +2466,6 @@
         "Português"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9243&code=3103"
-    },
-    {
-      "id": "3101-L099",
-      "name": "Comunicação e Media",
-      "area": "com",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Leiria",
-      "region": "Setúbal",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 40,
-      "exams": [
-        "Economia",
-        "Filosofia",
-        "História",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L099&code=3101"
     },
     {
       "id": "3101-9851",
@@ -3833,26 +2489,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9851&code=3101"
     },
     {
-      "id": "3101-9853",
-      "name": "Educação Básica",
-      "area": "edu",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Leiria",
-      "region": "Setúbal",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 97,
-      "exams": [
-        "Matemática",
-        "Matemática A",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9853&code=3101"
-    },
-    {
       "id": "3101-9084",
       "name": "Educação Social",
       "area": "edu",
@@ -3874,6 +2510,88 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9084&code=3101"
     },
     {
+      "id": "3101-L306",
+      "name": "Relações Humanas e Comunicação Organizacional (regime pós-laboral)",
+      "area": "com",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Leiria",
+      "region": "Setúbal",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 17,
+      "exams": [
+        "Economia",
+        "Filosofia",
+        "Geografia",
+        "História",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L306&code=3101"
+    },
+    {
+      "id": "3101-8014",
+      "name": "Serviço Social (regime pós-laboral)",
+      "area": "edu",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Leiria",
+      "region": "Setúbal",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 20,
+      "exams": [
+        "Economia",
+        "História",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8014&code=3101"
+    },
+    {
+      "id": "7045-8149",
+      "name": "Dietética e Nutrição",
+      "area": "saude",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Leiria",
+      "region": "Setúbal",
+      "ects": 240,
+      "years": 4,
+      "grade": null,
+      "vagas": 29,
+      "exams": [
+        "Biologia e Geologia",
+        "Física e Química",
+        "Matemática"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8149&code=7045"
+    },
+    {
+      "id": "7045-9504",
+      "name": "Fisioterapia",
+      "area": "saude",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Leiria",
+      "region": "Setúbal",
+      "ects": 240,
+      "years": 4,
+      "grade": null,
+      "vagas": 34,
+      "exams": [
+        "Biologia e Geologia",
+        "Física e Química",
+        "Matemática"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9504&code=7045"
+    },
+    {
       "id": "7045-8138",
       "name": "Terapia Ocupacional",
       "area": "saude",
@@ -3892,26 +2610,6 @@
         "Português"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8138&code=7045"
-    },
-    {
-      "id": "3102-9002",
-      "name": "Administração Pública",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Leiria",
-      "region": "Setúbal",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 29,
-      "exams": [
-        "Economia",
-        "História",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9002&code=3102"
     },
     {
       "id": "3102-9690",
@@ -3935,26 +2633,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9690&code=3102"
     },
     {
-      "id": "3102-9627",
-      "name": "Contabilidade e Finanças",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Leiria",
-      "region": "Setúbal",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 45,
-      "exams": [
-        "Economia",
-        "Geografia",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9627&code=3102"
-    },
-    {
       "id": "3102-9741",
       "name": "Engenharia Automóvel",
       "area": "tec",
@@ -3972,25 +2650,6 @@
         "Matemática"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9741&code=3102"
-    },
-    {
-      "id": "3102-9089",
-      "name": "Engenharia Civil",
-      "area": "tec",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Leiria",
-      "region": "Setúbal",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 15,
-      "exams": [
-        "Física e Química",
-        "Matemática"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9089&code=3102"
     },
     {
       "id": "3102-9112",
@@ -4015,28 +2674,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9112&code=3102"
     },
     {
-      "id": "3102-L266",
-      "name": "Engenharia Eletrotécnica e de Computadores (regime noturno)",
-      "area": "tec",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Leiria",
-      "region": "Setúbal",
-      "ects": 180,
-      "years": 4,
-      "grade": null,
-      "vagas": 5,
-      "exams": [
-        "Biologia e Geologia",
-        "Física e Química",
-        "Geometria Descritiva",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L266&code=3102"
-    },
-    {
       "id": "3102-9104",
       "name": "Engenharia e Gestão Industrial",
       "area": "tec",
@@ -4054,27 +2691,6 @@
         "Matemática"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9104&code=3102"
-    },
-    {
-      "id": "3102-9119",
-      "name": "Engenharia Informática",
-      "area": "tec",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Leiria",
-      "region": "Setúbal",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 125,
-      "exams": [
-        "Biologia e Geologia",
-        "Física e Química",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=3102"
     },
     {
       "id": "3102-9885",
@@ -4098,25 +2714,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9885&code=3102"
     },
     {
-      "id": "3102-9123",
-      "name": "Engenharia Mecânica",
-      "area": "tec",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Leiria",
-      "region": "Setúbal",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 40,
-      "exams": [
-        "Física e Química",
-        "Matemática"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9123&code=3102"
-    },
-    {
       "id": "3102-9886",
       "name": "Engenharia Mecânica (regime pós-laboral)",
       "area": "tec",
@@ -4134,26 +2731,6 @@
         "Matemática"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9886&code=3102"
-    },
-    {
-      "id": "3102-9147",
-      "name": "Gestão",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Leiria",
-      "region": "Setúbal",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 102,
-      "exams": [
-        "Economia",
-        "Geografia",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9147&code=3102"
     },
     {
       "id": "3102-9991",
@@ -4174,29 +2751,6 @@
         "Português"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9991&code=3102"
-    },
-    {
-      "id": "3102-L393",
-      "name": "Gestão Sustentável das Cidades e da Indústria",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Leiria",
-      "region": "Setúbal",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 20,
-      "exams": [
-        "Biologia e Geologia",
-        "Economia",
-        "Física e Química",
-        "Geografia",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L393&code=3102"
     },
     {
       "id": "3102-A014",
@@ -4220,26 +2774,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=A014&code=3102"
     },
     {
-      "id": "3102-9205",
-      "name": "Marketing",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Leiria",
-      "region": "Setúbal",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 50,
-      "exams": [
-        "Economia",
-        "Geografia",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9205&code=3102"
-    },
-    {
       "id": "3102-9242",
       "name": "Solicitadoria",
       "area": "gest",
@@ -4261,27 +2795,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9242&code=3102"
     },
     {
-      "id": "3102-8015",
-      "name": "Solicitadoria (regime pós-laboral)",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Leiria",
-      "region": "Setúbal",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 25,
-      "exams": [
-        "Economia",
-        "Filosofia",
-        "História",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8015&code=3102"
-    },
-    {
       "id": "3105-9848",
       "name": "Animação Turística",
       "area": "edu",
@@ -4300,27 +2813,6 @@
         "Português"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9848&code=3105"
-    },
-    {
-      "id": "3105-9013",
-      "name": "Biologia Marinha",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Peniche",
-      "region": "Setúbal",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 40,
-      "exams": [
-        "Biologia e Geologia",
-        "Física e Química",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9013&code=3105"
     },
     {
       "id": "3105-9016",
@@ -4344,27 +2836,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9016&code=3105"
     },
     {
-      "id": "3105-8514",
-      "name": "Gestão de Eventos",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Peniche",
-      "region": "Setúbal",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 20,
-      "exams": [
-        "Economia",
-        "Geografia",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8514&code=3105"
-    },
-    {
       "id": "3105-L131",
       "name": "Gestão da Restauração e Catering",
       "area": "gest",
@@ -4383,27 +2854,6 @@
         "Português"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L131&code=3105"
-    },
-    {
-      "id": "3105-9178",
-      "name": "Gestão Turística e Hoteleira",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Peniche",
-      "region": "Setúbal",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 45,
-      "exams": [
-        "Economia",
-        "Geografia",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9178&code=3105"
     },
     {
       "id": "3105-9207",
@@ -4426,27 +2876,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9207&code=3105"
     },
     {
-      "id": "3105-L389",
-      "name": "Sistemas Alimentares Sustentáveis",
-      "area": "tec",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Peniche",
-      "region": "Setúbal",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 14,
-      "exams": [
-        "Biologia e Geologia",
-        "Física e Química",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L389&code=3105"
-    },
-    {
       "id": "3105-L411",
       "name": "Tecnologias Digitais Aplicadas ao Turismo",
       "area": "tec",
@@ -4467,26 +2896,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L411&code=3105"
     },
     {
-      "id": "3105-9254",
-      "name": "Turismo",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Peniche",
-      "region": "Setúbal",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 45,
-      "exams": [
-        "Geografia",
-        "História",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9254&code=3105"
-    },
-    {
       "id": "3113-9010",
       "name": "Audiovisual e Multimédia",
       "area": "art",
@@ -4505,27 +2914,6 @@
         "Português"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9010&code=3113"
-    },
-    {
-      "id": "3113-9191",
-      "name": "Jornalismo",
-      "area": "com",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Lisboa",
-      "region": "Lisboa",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 62,
-      "exams": [
-        "Filosofia",
-        "Geografia",
-        "História",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9191&code=3113"
     },
     {
       "id": "3113-9222",
@@ -4549,27 +2937,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9222&code=3113"
     },
     {
-      "id": "3113-8439",
-      "name": "Publicidade e Marketing (regime pós-laboral)",
-      "area": "com",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Lisboa",
-      "region": "Lisboa",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 31,
-      "exams": [
-        "Filosofia",
-        "História",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8439&code=3113"
-    },
-    {
       "id": "3113-9231",
       "name": "Relações Públicas e Comunicação Empresarial",
       "area": "com",
@@ -4589,27 +2956,6 @@
         "Português"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9231&code=3113"
-    },
-    {
-      "id": "3113-8438",
-      "name": "Relações Públicas e Comunicação Empresarial (regime pós-laboral)",
-      "area": "com",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Lisboa",
-      "region": "Lisboa",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 29,
-      "exams": [
-        "Filosofia",
-        "História",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8438&code=3113"
     },
     {
       "id": "3111-9068",
@@ -4635,25 +2981,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9068&code=3111"
     },
     {
-      "id": "3112-9005",
-      "name": "Animação Sociocultural",
-      "area": "edu",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Lisboa",
-      "region": "Lisboa",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 30,
-      "exams": [
-        "História",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9005&code=3112"
-    },
-    {
       "id": "3112-8307",
       "name": "Artes Visuais e Tecnologias",
       "area": "tec",
@@ -4671,26 +2998,6 @@
         "Geometria Descritiva"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8307&code=3112"
-    },
-    {
-      "id": "3112-9853",
-      "name": "Educação Básica",
-      "area": "edu",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Lisboa",
-      "region": "Lisboa",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 117,
-      "exams": [
-        "Matemática",
-        "Matemática A",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9853&code=3112"
     },
     {
       "id": "3112-9876",
@@ -4711,28 +3018,6 @@
         "Português"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9876&code=3112"
-    },
-    {
-      "id": "3112-L134",
-      "name": "Mediação Artística e Cultural",
-      "area": "com",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Lisboa",
-      "region": "Lisboa",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 25,
-      "exams": [
-        "Filosofia",
-        "História",
-        "Inglês",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L134&code=3112"
     },
     {
       "id": "3114-L012",
@@ -4757,28 +3042,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L012&code=3114"
     },
     {
-      "id": "3114-9782",
-      "name": "Música, variante de Execução",
-      "area": "art",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Lisboa",
-      "region": "Lisboa",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 94,
-      "exams": [
-        "Filosofia",
-        "Geometria Descritiva",
-        "Inglês",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9782&code=3114"
-    },
-    {
       "id": "3114-8343",
       "name": "Música, variante de Jazz (regime pós-laboral)",
       "area": "art",
@@ -4801,28 +3064,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8343&code=3114"
     },
     {
-      "id": "3114-8344",
-      "name": "Tecnologias da Música (regime pós-laboral)",
-      "area": "tec",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Lisboa",
-      "region": "Lisboa",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 18,
-      "exams": [
-        "Filosofia",
-        "Geometria Descritiva",
-        "Inglês",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8344&code=3114"
-    },
-    {
       "id": "7250-L068",
       "name": "Ciências Biomédicas Laboratoriais",
       "area": "saude",
@@ -4841,26 +3082,6 @@
         "Matemática"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L068&code=7250"
-    },
-    {
-      "id": "7250-8149",
-      "name": "Dietética e Nutrição",
-      "area": "saude",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Lisboa",
-      "region": "Lisboa",
-      "ects": 240,
-      "years": 4,
-      "grade": null,
-      "vagas": 47,
-      "exams": [
-        "Biologia e Geologia",
-        "Física e Química",
-        "Matemática"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8149&code=7250"
     },
     {
       "id": "7250-9549",
@@ -4883,26 +3104,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9549&code=7250"
     },
     {
-      "id": "7250-L067",
-      "name": "Fisiologia Clínica",
-      "area": "saude",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Lisboa",
-      "region": "Lisboa",
-      "ects": 240,
-      "years": 4,
-      "grade": null,
-      "vagas": 43,
-      "exams": [
-        "Biologia e Geologia",
-        "Física e Química",
-        "Matemática"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L067&code=7250"
-    },
-    {
       "id": "7250-9504",
       "name": "Fisioterapia",
       "area": "saude",
@@ -4923,8 +3124,1936 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9504&code=7250"
     },
     {
-      "id": "3241-9152",
-      "name": "Gestão de Empresas",
+      "id": "7250-8152",
+      "name": "Ortoprotesia",
+      "area": "saude",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Lisboa",
+      "region": "Lisboa",
+      "ects": 240,
+      "years": 4,
+      "grade": null,
+      "vagas": 26,
+      "exams": [
+        "Biologia e Geologia",
+        "Física e Química",
+        "Matemática"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8152&code=7250"
+    },
+    {
+      "id": "7250-9861",
+      "name": "Saúde Ambiental",
+      "area": "saude",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Lisboa",
+      "region": "Lisboa",
+      "ects": 240,
+      "years": 4,
+      "grade": null,
+      "vagas": 24,
+      "exams": [
+        "Biologia e Geologia",
+        "Física e Química",
+        "Matemática"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9861&code=7250"
+    },
+    {
+      "id": "3116-9243",
+      "name": "Teatro",
+      "area": "art",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Amadora",
+      "region": "Setúbal",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 64,
+      "exams": [
+        "Geometria Descritiva",
+        "Inglês",
+        "Literatura Portuguesa",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9243&code=3116"
+    },
+    {
+      "id": "3117-L035",
+      "name": "Comércio e Negócios Internacionais (regime pós-laboral)",
+      "area": "gest",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Lisboa",
+      "region": "Lisboa",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 28,
+      "exams": [
+        "Economia",
+        "Geografia",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L035&code=3117"
+    },
+    {
+      "id": "3117-9869",
+      "name": "Contabilidade (regime pós-laboral)",
+      "area": "gest",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Lisboa",
+      "region": "Lisboa",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 70,
+      "exams": [
+        "Economia",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9869&code=3117"
+    },
+    {
+      "id": "3117-9889",
+      "name": "Finanças Empresariais (regime pós-laboral)",
+      "area": "gest",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Lisboa",
+      "region": "Lisboa",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 28,
+      "exams": [
+        "Economia",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9889&code=3117"
+    },
+    {
+      "id": "3117-9991",
+      "name": "Gestão (regime pós-laboral)",
+      "area": "gest",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Lisboa",
+      "region": "Lisboa",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 70,
+      "exams": [
+        "Economia",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9991&code=3117"
+    },
+    {
+      "id": "3117-8015",
+      "name": "Solicitadoria (regime pós-laboral)",
+      "area": "gest",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Lisboa",
+      "region": "Lisboa",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 48,
+      "exams": [
+        "Economia",
+        "História",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8015&code=3117"
+    },
+    {
+      "id": "3118-9089",
+      "name": "Engenharia Civil",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Lisboa",
+      "region": "Lisboa",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 50,
+      "exams": [
+        "Física e Química",
+        "Matemática A"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9089&code=3118"
+    },
+    {
+      "id": "3118-9109",
+      "name": "Engenharia Eletrotécnica",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Lisboa",
+      "region": "Lisboa",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 60,
+      "exams": [
+        "Biologia e Geologia",
+        "Física e Química",
+        "Geometria Descritiva",
+        "Matemática A",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9109&code=3118"
+    },
+    {
+      "id": "3118-9121",
+      "name": "Engenharia Informática e de Computadores",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Lisboa",
+      "region": "Lisboa",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 138,
+      "exams": [
+        "Biologia e Geologia",
+        "Física e Química",
+        "Matemática A",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9121&code=3118"
+    },
+    {
+      "id": "3118-L119",
+      "name": "Engenharia Informática, Redes e Telecomunicações",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Lisboa",
+      "region": "Lisboa",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 36,
+      "exams": [
+        "Biologia e Geologia",
+        "Economia",
+        "Física e Química",
+        "Matemática A",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L119&code=3118"
+    },
+    {
+      "id": "3118-9126",
+      "name": "Engenharia Química e Biológica",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Lisboa",
+      "region": "Lisboa",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 30,
+      "exams": [
+        "Biologia e Geologia",
+        "Física e Química",
+        "Matemática A"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9126&code=3118"
+    },
+    {
+      "id": "3118-L419",
+      "name": "Informática e Economia dos Dados",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Lisboa",
+      "region": "Lisboa",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 41,
+      "exams": [
+        "Biologia e Geologia",
+        "Economia",
+        "Física e Química",
+        "Geografia",
+        "Geometria Descritiva",
+        "Matemática A",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L419&code=3118"
+    },
+    {
+      "id": "3118-L085",
+      "name": "Tecnologias e Gestão Municipal",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Lisboa",
+      "region": "Lisboa",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 23,
+      "exams": [
+        "Biologia e Geologia",
+        "Física e Química",
+        "Geometria Descritiva",
+        "Matemática",
+        "Matemática A",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L085&code=3118"
+    },
+    {
+      "id": "3125-9563",
+      "name": "Desporto",
+      "area": "edu",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Elvas",
+      "region": "Évora",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 23,
+      "exams": [
+        "Biologia e Geologia",
+        "Geografia",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9563&code=3125"
+    },
+    {
+      "id": "3125-9130",
+      "name": "Equinicultura",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Elvas",
+      "region": "Évora",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 15,
+      "exams": [
+        "Biologia e Geologia",
+        "Física e Química",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9130&code=3125"
+    },
+    {
+      "id": "3121-9084",
+      "name": "Educação Social",
+      "area": "edu",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Portalegre",
+      "region": "Évora",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 20,
+      "exams": [
+        "Biologia e Geologia",
+        "Filosofia",
+        "Geografia",
+        "História",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9084&code=3121"
+    },
+    {
+      "id": "3121-L401",
+      "name": "Línguas Aplicadas em Comunicação Digital",
+      "area": "com",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Portalegre",
+      "region": "Évora",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 20,
+      "exams": [
+        "Economia",
+        "Espanhol",
+        "Francês",
+        "Inglês",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L401&code=3121"
+    },
+    {
+      "id": "3121-9254",
+      "name": "Turismo",
+      "area": "gest",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Portalegre",
+      "region": "Évora",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 20,
+      "exams": [
+        "Biologia e Geologia",
+        "Economia",
+        "Geografia",
+        "História",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9254&code=3121"
+    },
+    {
+      "id": "7055-9504",
+      "name": "Fisioterapia",
+      "area": "saude",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Portalegre",
+      "region": "Évora",
+      "ects": 240,
+      "years": 3,
+      "grade": null,
+      "vagas": 25,
+      "exams": [
+        "Biologia e Geologia",
+        "Economia",
+        "Filosofia",
+        "Física e Química",
+        "Geografia",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9504&code=7055"
+    },
+    {
+      "id": "3124-9670",
+      "name": "Administração de Publicidade e Marketing",
+      "area": "com",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Portalegre",
+      "region": "Évora",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 30,
+      "exams": [
+        "Economia",
+        "História",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9670&code=3124"
+    },
+    {
+      "id": "3124-9070",
+      "name": "Design de Comunicação",
+      "area": "art",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Portalegre",
+      "region": "Évora",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 26,
+      "exams": [
+        "Desenho",
+        "Filosofia",
+        "Geometria Descritiva",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9070&code=3124"
+    },
+    {
+      "id": "3124-9119",
+      "name": "Engenharia Informática",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Portalegre",
+      "region": "Évora",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 30,
+      "exams": [
+        "Biologia e Geologia",
+        "Economia",
+        "Física e Química",
+        "Matemática"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=3124"
+    },
+    {
+      "id": "3124-9147",
+      "name": "Gestão",
+      "area": "gest",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Portalegre",
+      "region": "Évora",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 50,
+      "exams": [
+        "Economia",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9147&code=3124"
+    },
+    {
+      "id": "3124-9457",
+      "name": "Som e Imagem",
+      "area": "art",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Portalegre",
+      "region": "Évora",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 15,
+      "exams": [
+        "Desenho",
+        "Filosofia",
+        "Geometria Descritiva",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9457&code=3124"
+    },
+    {
+      "id": "3131-9563",
+      "name": "Desporto",
+      "area": "edu",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Porto",
+      "region": "Porto",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 26,
+      "exams": [
+        "Biologia e Geologia",
+        "Física e Química",
+        "Geografia",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9563&code=3131"
+    },
+    {
+      "id": "3131-9878",
+      "name": "Educação Musical",
+      "area": "art",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Porto",
+      "region": "Porto",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 21,
+      "exams": [
+        "História",
+        "Inglês",
+        "Literatura Portuguesa",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9878&code=3131"
+    },
+    {
+      "id": "3131-9879",
+      "name": "Educação Social (regime pós-laboral)",
+      "area": "edu",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Porto",
+      "region": "Porto",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 30,
+      "exams": [
+        "Filosofia",
+        "História",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9879&code=3131"
+    },
+    {
+      "id": "3131-8002",
+      "name": "Línguas e Culturas Estrangeiras",
+      "area": "com",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Porto",
+      "region": "Porto",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 55,
+      "exams": [
+        "Espanhol",
+        "Francês",
+        "Inglês",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8002&code=3131"
+    },
+    {
+      "id": "3131-9807",
+      "name": "Tradução e Interpretação em Língua Gestual Portuguesa",
+      "area": "com",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Porto",
+      "region": "Porto",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 22,
+      "exams": [
+        "Desenho",
+        "Filosofia",
+        "Geografia",
+        "História",
+        "Inglês",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9807&code=3131"
+    },
+    {
+      "id": "3139-9921",
+      "name": "Gestão das Atividades Turísticas",
+      "area": "gest",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Vila Do Conde",
+      "region": "Porto",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 63,
+      "exams": [
+        "Economia",
+        "Geografia",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9921&code=3139"
+    },
+    {
+      "id": "3331-9713",
+      "name": "Cinema e Audiovisual",
+      "area": "art",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Vila Do Conde",
+      "region": "Porto",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 30,
+      "exams": [
+        "Inglês",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9713&code=3331"
+    },
+    {
+      "id": "3331-9645",
+      "name": "Fotografia",
+      "area": "art",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Vila Do Conde",
+      "region": "Porto",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 21,
+      "exams": [
+        "Filosofia",
+        "História",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9645&code=3331"
+    },
+    {
+      "id": "3331-L381",
+      "name": "Tecnologias e Desenvolvimento Web",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Vila Do Conde",
+      "region": "Porto",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 34,
+      "exams": [
+        "Inglês",
+        "Matemática",
+        "Matemática A",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L381&code=3331"
+    },
+    {
+      "id": "3132-9837",
+      "name": "Música, variante de Composição",
+      "area": "art",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Porto",
+      "region": "Porto",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 6,
+      "exams": [
+        "Geometria Descritiva",
+        "Inglês",
+        "Literatura Portuguesa",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9837&code=3132"
+    },
+    {
+      "id": "3132-9839",
+      "name": "Música, variante de Música Antiga",
+      "area": "art",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Porto",
+      "region": "Porto",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 9,
+      "exams": [
+        "Geometria Descritiva",
+        "Inglês",
+        "Literatura Portuguesa",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9839&code=3132"
+    },
+    {
+      "id": "3132-8026",
+      "name": "Teatro, variante de Cenografia",
+      "area": "art",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Porto",
+      "region": "Porto",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 5,
+      "exams": [
+        "Geometria Descritiva",
+        "Inglês",
+        "Literatura Portuguesa",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8026&code=3132"
+    },
+    {
+      "id": "3132-8027",
+      "name": "Teatro, variante de Figurino",
+      "area": "art",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Porto",
+      "region": "Porto",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 5,
+      "exams": [
+        "Geometria Descritiva",
+        "Inglês",
+        "Literatura Portuguesa",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8027&code=3132"
+    },
+    {
+      "id": "3132-A016",
+      "name": "Teatro, variante Som",
+      "area": "art",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Porto",
+      "region": "Porto",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 5,
+      "exams": [
+        "Geometria Descritiva",
+        "Inglês",
+        "Literatura Portuguesa",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=A016&code=3132"
+    },
+    {
+      "id": "7230-8141",
+      "name": "Audiologia",
+      "area": "saude",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Porto",
+      "region": "Porto",
+      "ects": 240,
+      "years": 4,
+      "grade": null,
+      "vagas": 23,
+      "exams": [
+        "Biologia e Geologia",
+        "Física e Química",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8141&code=7230"
+    },
+    {
+      "id": "7230-L068",
+      "name": "Ciências Biomédicas Laboratoriais",
+      "area": "saude",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Porto",
+      "region": "Porto",
+      "ects": 240,
+      "years": 4,
+      "grade": null,
+      "vagas": 61,
+      "exams": [
+        "Biologia e Geologia",
+        "Física e Química",
+        "Matemática"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L068&code=7230"
+    },
+    {
+      "id": "7230-L354",
+      "name": "Física Aplicada à Saúde",
+      "area": "saude",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Porto",
+      "region": "Porto",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 20,
+      "exams": [
+        "Biologia e Geologia",
+        "Física e Química",
+        "Matemática"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L354&code=7230"
+    },
+    {
+      "id": "7230-9504",
+      "name": "Fisioterapia",
+      "area": "saude",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Porto",
+      "region": "Porto",
+      "ects": 240,
+      "years": 4,
+      "grade": null,
+      "vagas": 70,
+      "exams": [
+        "Biologia e Geologia",
+        "Física e Química",
+        "Matemática A"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9504&code=7230"
+    },
+    {
+      "id": "7230-8143",
+      "name": "Ortóptica",
+      "area": "saude",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Porto",
+      "region": "Porto",
+      "ects": 240,
+      "years": 4,
+      "grade": null,
+      "vagas": 25,
+      "exams": [
+        "Biologia e Geologia",
+        "Física e Química",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8143&code=7230"
+    },
+    {
+      "id": "7230-9861",
+      "name": "Saúde Ambiental",
+      "area": "saude",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Porto",
+      "region": "Porto",
+      "ects": 240,
+      "years": 4,
+      "grade": null,
+      "vagas": 32,
+      "exams": [
+        "Biologia e Geologia",
+        "Física e Química",
+        "Geografia",
+        "Matemática"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9861&code=7230"
+    },
+    {
+      "id": "7230-9890",
+      "name": "Terapia da Fala",
+      "area": "saude",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Porto",
+      "region": "Porto",
+      "ects": 240,
+      "years": 4,
+      "grade": null,
+      "vagas": 38,
+      "exams": [
+        "Biologia e Geologia",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9890&code=7230"
+    },
+    {
+      "id": "3138-9045",
+      "name": "Ciências Empresariais",
+      "area": "gest",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Felgueiras",
+      "region": "Porto",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 40,
+      "exams": [
+        "Economia",
+        "Geografia",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9045&code=3138"
+    },
+    {
+      "id": "3138-9119",
+      "name": "Engenharia Informática",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Felgueiras",
+      "region": "Porto",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 70,
+      "exams": [
+        "Economia",
+        "Física e Química",
+        "Geometria Descritiva",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=3138"
+    },
+    {
+      "id": "3138-8398",
+      "name": "Segurança Informática em Redes de Computadores",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Felgueiras",
+      "region": "Porto",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 22,
+      "exams": [
+        "Economia",
+        "Física e Química",
+        "Geometria Descritiva",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8398&code=3138"
+    },
+    {
+      "id": "3138-L429",
+      "name": "Sistemas de Informação para a Gestão",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Felgueiras",
+      "region": "Porto",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 22,
+      "exams": [
+        "Economia",
+        "Física e Química",
+        "Geometria Descritiva",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L429&code=3138"
+    },
+    {
+      "id": "3138-8015",
+      "name": "Solicitadoria (regime pós-laboral)",
+      "area": "gest",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Felgueiras",
+      "region": "Porto",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 19,
+      "exams": [
+        "Economia",
+        "Filosofia",
+        "Geografia",
+        "História",
+        "Inglês",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8015&code=3138"
+    },
+    {
+      "id": "3134-9829",
+      "name": "Assessoria e Tradução (regime pós-laboral)",
+      "area": "com",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "São Mamede De Infesta",
+      "region": "Porto",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 28,
+      "exams": [
+        "Francês",
+        "Inglês",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9829&code=3134"
+    },
+    {
+      "id": "3134-9716",
+      "name": "Comércio Internacional",
+      "area": "gest",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "São Mamede De Infesta",
+      "region": "Porto",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 38,
+      "exams": [
+        "Economia",
+        "Inglês",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9716&code=3134"
+    },
+    {
+      "id": "3134-9053",
+      "name": "Comunicação Empresarial",
+      "area": "com",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "São Mamede De Infesta",
+      "region": "Porto",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 45,
+      "exams": [
+        "Geografia",
+        "História",
+        "Inglês",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9053&code=3134"
+    },
+    {
+      "id": "3134-9058",
+      "name": "Contabilidade e Administração",
+      "area": "gest",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "São Mamede De Infesta",
+      "region": "Porto",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 220,
+      "exams": [
+        "Economia",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9058&code=3134"
+    },
+    {
+      "id": "3134-L070",
+      "name": "Criatividade e Inovação Empresarial",
+      "area": "gest",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "São Mamede De Infesta",
+      "region": "Porto",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 33,
+      "exams": [
+        "Economia",
+        "Filosofia",
+        "Inglês",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L070&code=3134"
+    },
+    {
+      "id": "3134-9205",
+      "name": "Marketing",
+      "area": "gest",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "São Mamede De Infesta",
+      "region": "Porto",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 90,
+      "exams": [
+        "Economia",
+        "Geografia",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9205&code=3134"
+    },
+    {
+      "id": "3134-9227",
+      "name": "Recursos Humanos",
+      "area": "gest",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "São Mamede De Infesta",
+      "region": "Porto",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 60,
+      "exams": [
+        "Economia",
+        "Geografia",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9227&code=3134"
+    },
+    {
+      "id": "3135-9455",
+      "name": "Engenharia Biomédica",
+      "area": "saude",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Porto",
+      "region": "Porto",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 58,
+      "exams": [
+        "Física e Química",
+        "Matemática"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9455&code=3135"
+    },
+    {
+      "id": "3135-9112",
+      "name": "Engenharia Eletrotécnica e de Computadores",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Porto",
+      "region": "Porto",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 176,
+      "exams": [
+        "Física e Química",
+        "Geometria Descritiva",
+        "Matemática A",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9112&code=3135"
+    },
+    {
+      "id": "3135-L213",
+      "name": "Engenharia Física Aplicada",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Porto",
+      "region": "Porto",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 20,
+      "exams": [
+        "Física e Química",
+        "Matemática A"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L213&code=3135"
+    },
+    {
+      "id": "3135-9104",
+      "name": "Engenharia e Gestão Industrial",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Porto",
+      "region": "Porto",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 41,
+      "exams": [
+        "Física e Química",
+        "Matemática A"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9104&code=3135"
+    },
+    {
+      "id": "3135-9123",
+      "name": "Engenharia Mecânica",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Porto",
+      "region": "Porto",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 120,
+      "exams": [
+        "Física e Química",
+        "Matemática A"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9123&code=3135"
+    },
+    {
+      "id": "3135-9125",
+      "name": "Engenharia Química",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Porto",
+      "region": "Porto",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 54,
+      "exams": [
+        "Física e Química",
+        "Matemática"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9125&code=3135"
+    },
+    {
+      "id": "3135-9098",
+      "name": "Engenharia de Telecomunicações e Informática",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Porto",
+      "region": "Porto",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 40,
+      "exams": [
+        "Física e Química",
+        "Matemática A"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9098&code=3135"
+    },
+    {
+      "id": "3141-8419",
+      "name": "Agronomia (regime pós-laboral)",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Santarém",
+      "region": "Setúbal",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 16,
+      "exams": [
+        "Biologia e Geologia",
+        "Economia",
+        "Física e Química",
+        "Matemática",
+        "Matemática A",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8419&code=3141"
+    },
+    {
+      "id": "3141-9085",
+      "name": "Enfermagem Veterinária",
+      "area": "saude",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Santarém",
+      "region": "Setúbal",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 26,
+      "exams": [
+        "Biologia e Geologia",
+        "Física e Química",
+        "Inglês",
+        "Matemática",
+        "Matemática A",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9085&code=3141"
+    },
+    {
+      "id": "3141-L003",
+      "name": "Zootecnia",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Santarém",
+      "region": "Setúbal",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 37,
+      "exams": [
+        "Biologia e Geologia",
+        "Economia",
+        "Física e Química",
+        "Matemática",
+        "Matemática A",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L003&code=3141"
+    },
+    {
+      "id": "3145-L034",
+      "name": "Desporto, Condição Física e Saúde",
+      "area": "saude",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Rio Maior",
+      "region": "Setúbal",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 90,
+      "exams": [
+        "Biologia e Geologia",
+        "Economia",
+        "Geografia",
+        "Inglês",
+        "Matemática A",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L034&code=3145"
+    },
+    {
+      "id": "3145-9763",
+      "name": "Gestão das Organizações Desportivas",
+      "area": "gest",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Rio Maior",
+      "region": "Setúbal",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 23,
+      "exams": [
+        "Biologia e Geologia",
+        "Economia",
+        "Física e Química",
+        "Geografia",
+        "Matemática A",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9763&code=3145"
+    },
+    {
+      "id": "3142-L130",
+      "name": "Educação Ambiental e Turismo de Natureza",
+      "area": "edu",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Santarém",
+      "region": "Setúbal",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 35,
+      "exams": [
+        "Biologia e Geologia",
+        "Filosofia",
+        "História",
+        "Matemática A",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L130&code=3142"
+    },
+    {
+      "id": "3142-9084",
+      "name": "Educação Social",
+      "area": "edu",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Santarém",
+      "region": "Setúbal",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 40,
+      "exams": [
+        "Economia",
+        "Filosofia",
+        "Geografia",
+        "História",
+        "Inglês",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9084&code=3142"
+    },
+    {
+      "id": "3143-9498",
+      "name": "Contabilidade e Fiscalidade",
+      "area": "gest",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Santarém",
+      "region": "Setúbal",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 45,
+      "exams": [
+        "Economia",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9498&code=3143"
+    },
+    {
+      "id": "3143-9147",
+      "name": "Gestão",
+      "area": "gest",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Santarém",
+      "region": "Setúbal",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 90,
+      "exams": [
+        "Economia",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9147&code=3143"
+    },
+    {
+      "id": "3143-9991",
+      "name": "Gestão (regime pós-laboral)",
+      "area": "gest",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Santarém",
+      "region": "Setúbal",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 24,
+      "exams": [
+        "Economia",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9991&code=3143"
+    },
+    {
+      "id": "7065-9500",
+      "name": "Enfermagem",
+      "area": "saude",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Santarém",
+      "region": "Setúbal",
+      "ects": 240,
+      "years": 4,
+      "grade": null,
+      "vagas": 78,
+      "exams": [
+        "Biologia e Geologia",
+        "Filosofia",
+        "Física e Química",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=7065"
+    },
+    {
+      "id": "3153-9627",
+      "name": "Contabilidade e Finanças",
+      "area": "gest",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Setúbal",
+      "region": "Setúbal",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 57,
+      "exams": [
+        "Economia",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9627&code=3153"
+    },
+    {
+      "id": "3153-9629",
+      "name": "Gestão da Distribuição e da Logística",
+      "area": "gest",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Setúbal",
+      "region": "Setúbal",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 52,
+      "exams": [
+        "Economia",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9629&code=3153"
+    },
+    {
+      "id": "3153-9157",
+      "name": "Gestão de Recursos Humanos",
+      "area": "gest",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Setúbal",
+      "region": "Setúbal",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 57,
+      "exams": [
+        "Economia",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9157&code=3153"
+    },
+    {
+      "id": "3153-9630",
+      "name": "Gestão de Sistemas de Informação",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Setúbal",
+      "region": "Setúbal",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 65,
+      "exams": [
+        "Economia",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9630&code=3153"
+    },
+    {
+      "id": "3151-9005",
+      "name": "Animação Sociocultural",
+      "area": "edu",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Setúbal",
+      "region": "Setúbal",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 32,
+      "exams": [
+        "Biologia e Geologia",
+        "Filosofia",
+        "História",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9005&code=3151"
+    },
+    {
+      "id": "3151-9563",
+      "name": "Desporto",
+      "area": "edu",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Setúbal",
+      "region": "Setúbal",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 31,
+      "exams": [
+        "Biologia e Geologia",
+        "Economia",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9563&code=3151"
+    },
+    {
+      "id": "3151-9876",
+      "name": "Educação Básica (regime pós-laboral)",
+      "area": "edu",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Setúbal",
+      "region": "Setúbal",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 20,
+      "exams": [
+        "Matemática",
+        "Matemática A",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9876&code=3151"
+    },
+    {
+      "id": "3155-9500",
+      "name": "Enfermagem",
+      "area": "saude",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Setúbal",
+      "region": "Setúbal",
+      "ects": 240,
+      "years": 4,
+      "grade": null,
+      "vagas": 46,
+      "exams": [
+        "Biologia e Geologia",
+        "Física e Química",
+        "Matemática A",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=3155"
+    },
+    {
+      "id": "3155-9890",
+      "name": "Terapia da Fala",
+      "area": "saude",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Setúbal",
+      "region": "Setúbal",
+      "ects": 240,
+      "years": 4,
+      "grade": null,
+      "vagas": 28,
+      "exams": [
+        "Biologia e Geologia",
+        "Física e Química",
+        "Matemática A",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9890&code=3155"
+    },
+    {
+      "id": "3154-9016",
+      "name": "Biotecnologia",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Lavradio",
+      "region": "Setúbal",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 47,
+      "exams": [
+        "Biologia e Geologia",
+        "Física e Química",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9016&code=3154"
+    },
+    {
+      "id": "3154-9881",
+      "name": "Engenharia Civil (regime pós-laboral)",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Lavradio",
+      "region": "Setúbal",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 19,
+      "exams": [
+        "Física e Química",
+        "Matemática",
+        "Matemática A"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9881&code=3154"
+    },
+    {
+      "id": "3152-9092",
+      "name": "Engenharia de Automação, Controlo e Instrumentação",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Setúbal",
+      "region": "Setúbal",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 45,
+      "exams": [
+        "Física e Química",
+        "Geometria Descritiva",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9092&code=3152"
+    },
+    {
+      "id": "3152-9119",
+      "name": "Engenharia Informática",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Setúbal",
+      "region": "Setúbal",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 70,
+      "exams": [
+        "Física e Química",
+        "Geometria Descritiva",
+        "Matemática",
+        "Matemática A",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=3152"
+    },
+    {
+      "id": "3152-L069",
+      "name": "Tecnologia Biomédica",
+      "area": "saude",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Setúbal",
+      "region": "Setúbal",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 51,
+      "exams": [
+        "Biologia e Geologia",
+        "Física e Química",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L069&code=3152"
+    },
+    {
+      "id": "3152-L124",
+      "name": "Tecnologias do Ambiente e do Mar",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Setúbal",
+      "region": "Setúbal",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 36,
+      "exams": [
+        "Biologia e Geologia",
+        "Física e Química",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L124&code=3152"
+    },
+    {
+      "id": "3241-9056",
+      "name": "Contabilidade",
       "area": "gest",
       "degree": "Licenciatura",
       "inst": "DGES",
@@ -4934,14 +5063,15 @@
       "ects": 180,
       "years": 3,
       "grade": null,
-      "vagas": 50,
+      "vagas": 16,
       "exams": [
         "Economia",
         "Geografia",
+        "Inglês",
         "Matemática",
         "Português"
       ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9152&code=3241"
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9056&code=3241"
     },
     {
       "id": "3241-9640",
@@ -4963,27 +5093,6 @@
         "Português"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9640&code=3241"
-    },
-    {
-      "id": "3241-L207",
-      "name": "Turismo e Gestão do Património Cultural",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Tomar",
-      "region": "Setúbal",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 27,
-      "exams": [
-        "Economia",
-        "História",
-        "Inglês",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L207&code=3241"
     },
     {
       "id": "3243-L371",
@@ -5008,27 +5117,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L371&code=3243"
     },
     {
-      "id": "3243-L211",
-      "name": "Computação e Logística",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Abrantes",
-      "region": "Setúbal",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 16,
-      "exams": [
-        "Economia",
-        "Geometria Descritiva",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L211&code=3243"
-    },
-    {
       "id": "3243-L297",
       "name": "Comunicação Social: Jornalismo e Comunicação Empresarial",
       "area": "com",
@@ -5050,8 +5138,29 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L297&code=3243"
     },
     {
-      "id": "3242-9119",
-      "name": "Engenharia Informática",
+      "id": "3243-L143",
+      "name": "Informática e Tecnologias Multimédia",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Abrantes",
+      "region": "Setúbal",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 25,
+      "exams": [
+        "Economia",
+        "Geometria Descritiva",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L143&code=3243"
+    },
+    {
+      "id": "3242-9644",
+      "name": "Design e Tecnologia das Artes Gráficas",
       "area": "tec",
       "degree": "Licenciatura",
       "inst": "DGES",
@@ -5061,7 +5170,27 @@
       "ects": 180,
       "years": 3,
       "grade": null,
-      "vagas": 60,
+      "vagas": 45,
+      "exams": [
+        "Desenho",
+        "Geometria Descritiva",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9644&code=3242"
+    },
+    {
+      "id": "3242-9112",
+      "name": "Engenharia Eletrotécnica e de Computadores",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Tomar",
+      "region": "Setúbal",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 30,
       "exams": [
         "Biologia e Geologia",
         "Economia",
@@ -5070,7 +5199,7 @@
         "Matemática",
         "Português"
       ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=3242"
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9112&code=3242"
     },
     {
       "id": "3242-9645",
@@ -5096,9 +5225,9 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9645&code=3242"
     },
     {
-      "id": "3242-L186",
-      "name": "Gestão da Edificação e Obras",
-      "area": "gest",
+      "id": "3242-L142",
+      "name": "Tecnologia Química",
+      "area": "tec",
       "degree": "Licenciatura",
       "inst": "DGES",
       "instName": "DGES",
@@ -5107,14 +5236,55 @@
       "ects": 180,
       "years": 3,
       "grade": null,
-      "vagas": 20,
+      "vagas": 16,
       "exams": [
-        "Economia",
-        "Geometria Descritiva",
+        "Biologia e Geologia",
+        "Física e Química",
         "Matemática",
         "Português"
       ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L186&code=3242"
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L142&code=3242"
+    },
+    {
+      "id": "3161-9016",
+      "name": "Biotecnologia",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Ponte De Lima",
+      "region": "Porto",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 25,
+      "exams": [
+        "Biologia e Geologia",
+        "Física e Química",
+        "Matemática"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9016&code=3161"
+    },
+    {
+      "id": "3161-L164",
+      "name": "Engenharia do Ambiente e Geoinformática",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Ponte De Lima",
+      "region": "Porto",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 15,
+      "exams": [
+        "Biologia e Geologia",
+        "Física e Química",
+        "Geografia",
+        "Matemática"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L164&code=3161"
     },
     {
       "id": "3164-8464",
@@ -5137,25 +5307,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8464&code=3164"
     },
     {
-      "id": "3164-L366",
-      "name": "Marketing e Comunicação Empresariais",
-      "area": "com",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Valença",
-      "region": "Porto",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 35,
-      "exams": [
-        "Economia",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L366&code=3164"
-    },
-    {
       "id": "3164-8516",
       "name": "Organização e Gestão Empresariais",
       "area": "gest",
@@ -5176,6 +5327,86 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8516&code=3164"
     },
     {
+      "id": "3162-L284",
+      "name": "Artes e Cinema Digital",
+      "area": "art",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Viana Do Castelo",
+      "region": "Porto",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 20,
+      "exams": [
+        "Desenho",
+        "Geometria Descritiva",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L284&code=3162"
+    },
+    {
+      "id": "3162-9853",
+      "name": "Educação Básica",
+      "area": "edu",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Viana Do Castelo",
+      "region": "Porto",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 80,
+      "exams": [
+        "Matemática",
+        "Matemática A",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9853&code=3162"
+    },
+    {
+      "id": "7075-9500",
+      "name": "Enfermagem",
+      "area": "saude",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Viana Do Castelo",
+      "region": "Porto",
+      "ects": 240,
+      "years": 4,
+      "grade": null,
+      "vagas": 70,
+      "exams": [
+        "Biologia e Geologia",
+        "Física e Química",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=7075"
+    },
+    {
+      "id": "3163-9723",
+      "name": "Design de Ambientes",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Viana Do Castelo",
+      "region": "Porto",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 28,
+      "exams": [
+        "Desenho",
+        "Geometria Descritiva"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9723&code=3163"
+    },
+    {
       "id": "3163-9743",
       "name": "Engenharia Civil e do Ambiente",
       "area": "tec",
@@ -5193,27 +5424,6 @@
         "Matemática"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9743&code=3163"
-    },
-    {
-      "id": "3163-8407",
-      "name": "Engenharia da Computação Gráfica e Multimédia",
-      "area": "tec",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Viana Do Castelo",
-      "region": "Porto",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 30,
-      "exams": [
-        "Física e Química",
-        "Geometria Descritiva",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8407&code=3163"
     },
     {
       "id": "3163-9119",
@@ -5237,25 +5447,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=3163"
     },
     {
-      "id": "3163-9123",
-      "name": "Engenharia Mecânica",
-      "area": "tec",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Viana Do Castelo",
-      "region": "Porto",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 34,
-      "exams": [
-        "Física e Química",
-        "Matemática"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9123&code=3163"
-    },
-    {
       "id": "3163-9751",
       "name": "Engenharia Mecatrónica",
       "area": "tec",
@@ -5273,27 +5464,6 @@
         "Matemática"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9751&code=3163"
-    },
-    {
-      "id": "3163-L153",
-      "name": "Engenharia de Redes e Sistemas de Computadores",
-      "area": "tec",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Viana Do Castelo",
-      "region": "Porto",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 36,
-      "exams": [
-        "Física e Química",
-        "Geometria Descritiva",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L153&code=3163"
     },
     {
       "id": "3163-L261",
@@ -5317,26 +5487,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L261&code=3163"
     },
     {
-      "id": "3163-9147",
-      "name": "Gestão",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Viana Do Castelo",
-      "region": "Porto",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 48,
-      "exams": [
-        "Economia",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9147&code=3163"
-    },
-    {
       "id": "3163-9148",
       "name": "Gestão (regime noturno)",
       "area": "gest",
@@ -5355,6 +5505,28 @@
         "Português"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9148&code=3163"
+    },
+    {
+      "id": "3163-9254",
+      "name": "Turismo",
+      "area": "gest",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Viana Do Castelo",
+      "region": "Porto",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 50,
+      "exams": [
+        "Economia",
+        "Geografia",
+        "História",
+        "Inglês",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9254&code=3163"
     },
     {
       "id": "3185-9085",
@@ -5379,26 +5551,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9085&code=3185"
     },
     {
-      "id": "3185-9086",
-      "name": "Engenharia Agronómica",
-      "area": "tec",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Viseu",
-      "region": "Leiria",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 25,
-      "exams": [
-        "Biologia e Geologia",
-        "Física e Química",
-        "Matemática"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9086&code=3185"
-    },
-    {
       "id": "3185-9087",
       "name": "Engenharia Alimentar",
       "area": "tec",
@@ -5419,8 +5571,8 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9087&code=3185"
     },
     {
-      "id": "3181-9347",
-      "name": "Artes Plásticas e Multimédia",
+      "id": "3181-9681",
+      "name": "Artes Performativas",
       "area": "art",
       "degree": "Licenciatura",
       "inst": "DGES",
@@ -5430,14 +5582,15 @@
       "ects": 180,
       "years": 3,
       "grade": null,
-      "vagas": 45,
+      "vagas": 26,
       "exams": [
         "Desenho",
         "Filosofia",
         "Geometria Descritiva",
+        "História",
         "Português"
       ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9347&code=3181"
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9681&code=3181"
     },
     {
       "id": "3181-9054",
@@ -5463,8 +5616,8 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9054&code=3181"
     },
     {
-      "id": "3181-9850",
-      "name": "Desporto e Atividade Física",
+      "id": "3181-9853",
+      "name": "Educação Básica",
       "area": "edu",
       "degree": "Licenciatura",
       "inst": "DGES",
@@ -5474,37 +5627,31 @@
       "ects": 180,
       "years": 3,
       "grade": null,
-      "vagas": 37,
+      "vagas": 65,
       "exams": [
-        "Biologia e Geologia",
-        "Economia",
-        "Filosofia",
-        "Geografia",
-        "História",
         "Português"
       ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9850&code=3181"
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9853&code=3181"
     },
     {
-      "id": "7085-9500",
-      "name": "Enfermagem",
-      "area": "saude",
+      "id": "3181-9930",
+      "name": "Publicidade e Relações Públicas",
+      "area": "com",
       "degree": "Licenciatura",
       "inst": "DGES",
       "instName": "DGES",
       "city": "Viseu",
       "region": "Leiria",
-      "ects": 240,
-      "years": 4,
+      "ects": 180,
+      "years": 3,
       "grade": null,
-      "vagas": 90,
+      "vagas": 67,
       "exams": [
-        "Biologia e Geologia",
-        "Física e Química",
-        "Matemática",
+        "Geografia",
+        "História",
         "Português"
       ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=7085"
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9930&code=3181"
     },
     {
       "id": "7085-9504",
@@ -5529,9 +5676,9 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9504&code=7085"
     },
     {
-      "id": "3186-9122",
-      "name": "Engenharia Informática e Telecomunicações",
-      "area": "tec",
+      "id": "3186-L021",
+      "name": "Gestão Comercial",
+      "area": "gest",
       "degree": "Licenciatura",
       "inst": "DGES",
       "instName": "DGES",
@@ -5540,14 +5687,33 @@
       "ects": 180,
       "years": 3,
       "grade": null,
-      "vagas": 36,
+      "vagas": 35,
       "exams": [
         "Economia",
-        "Física e Química",
-        "Matemática",
         "Português"
       ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9122&code=3186"
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L021&code=3186"
+    },
+    {
+      "id": "3186-9179",
+      "name": "Gestão Turística, Cultural e Patrimonial",
+      "area": "gest",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Lamego",
+      "region": "Vila Real",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 21,
+      "exams": [
+        "Geografia",
+        "História",
+        "Inglês",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9179&code=3186"
     },
     {
       "id": "3186-9238",
@@ -5570,30 +5736,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9238&code=3186"
     },
     {
-      "id": "3182-9709",
-      "name": "Ciências e Tecnologia do Ambiente",
-      "area": "tec",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Viseu",
-      "region": "Leiria",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 35,
-      "exams": [
-        "Biologia e Geologia",
-        "Economia",
-        "Física e Química",
-        "Geografia",
-        "Geometria Descritiva",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9709&code=3182"
-    },
-    {
       "id": "3182-9056",
       "name": "Contabilidade",
       "area": "gest",
@@ -5614,25 +5756,6 @@
         "Português"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9056&code=3182"
-    },
-    {
-      "id": "3182-9089",
-      "name": "Engenharia Civil",
-      "area": "tec",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Viseu",
-      "region": "Leiria",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 43,
-      "exams": [
-        "Física e Química",
-        "Matemática"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9089&code=3182"
     },
     {
       "id": "3182-9109",
@@ -5659,8 +5782,8 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9109&code=3182"
     },
     {
-      "id": "3182-9119",
-      "name": "Engenharia Informática",
+      "id": "3182-9123",
+      "name": "Engenharia Mecânica",
       "area": "tec",
       "degree": "Licenciatura",
       "inst": "DGES",
@@ -5670,17 +5793,315 @@
       "ects": 180,
       "years": 3,
       "grade": null,
-      "vagas": 66,
+      "vagas": 44,
       "exams": [
-        "Biologia e Geologia",
-        "Desenho",
-        "Economia",
         "Física e Química",
-        "Geometria Descritiva",
+        "Matemática"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9123&code=3182"
+    },
+    {
+      "id": "3182-9994",
+      "name": "Gestão de Empresas (regime pós-laboral)",
+      "area": "gest",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Viseu",
+      "region": "Leiria",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 35,
+      "exams": [
+        "Economia",
+        "Geografia",
+        "História",
         "Matemática",
         "Português"
       ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9119&code=3182"
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9994&code=3182"
+    },
+    {
+      "id": "3182-9205",
+      "name": "Marketing",
+      "area": "gest",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Viseu",
+      "region": "Leiria",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 46,
+      "exams": [
+        "Economia",
+        "Geografia",
+        "História",
+        "Inglês",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9205&code=3182"
+    },
+    {
+      "id": "3182-9491",
+      "name": "Tecnologias e Design de Multimédia",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Viseu",
+      "region": "Leiria",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 48,
+      "exams": [
+        "Desenho",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9491&code=3182"
+    },
+    {
+      "id": "7092-9500",
+      "name": "Enfermagem",
+      "area": "saude",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Angra Do Heroísmo",
+      "region": "Madeira",
+      "ects": 240,
+      "years": 4,
+      "grade": null,
+      "vagas": 40,
+      "exams": [
+        "Biologia e Geologia",
+        "Filosofia",
+        "Física e Química",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=7092"
+    },
+    {
+      "id": "3081-9023",
+      "name": "Ciências da Comunicação",
+      "area": "com",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Faro",
+      "region": "Faro",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 41,
+      "exams": [
+        "Economia",
+        "Filosofia",
+        "Geografia",
+        "História",
+        "Inglês",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9023&code=3081"
+    },
+    {
+      "id": "3081-9563",
+      "name": "Desporto",
+      "area": "edu",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Faro",
+      "region": "Faro",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 42,
+      "exams": [
+        "Biologia e Geologia",
+        "Física e Química",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9563&code=3081"
+    },
+    {
+      "id": "3081-9084",
+      "name": "Educação Social",
+      "area": "edu",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Faro",
+      "region": "Faro",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 35,
+      "exams": [
+        "Economia",
+        "Geografia",
+        "História",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9084&code=3081"
+    },
+    {
+      "id": "3082-9147",
+      "name": "Gestão",
+      "area": "gest",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Faro",
+      "region": "Faro",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 76,
+      "exams": [
+        "Economia",
+        "Filosofia",
+        "Geografia",
+        "Inglês",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9147&code=3082"
+    },
+    {
+      "id": "3082-9148",
+      "name": "Gestão (regime noturno)",
+      "area": "gest",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Faro",
+      "region": "Faro",
+      "ects": 180,
+      "years": 4,
+      "grade": null,
+      "vagas": 26,
+      "exams": [
+        "Economia",
+        "Filosofia",
+        "Geografia",
+        "Inglês",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9148&code=3082"
+    },
+    {
+      "id": "3082-9254",
+      "name": "Turismo",
+      "area": "gest",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Faro",
+      "region": "Faro",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 65,
+      "exams": [
+        "Economia",
+        "Filosofia",
+        "Geografia",
+        "História",
+        "Inglês",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9254&code=3082"
+    },
+    {
+      "id": "3087-9148",
+      "name": "Gestão (regime noturno)",
+      "area": "gest",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Portimão",
+      "region": "Faro",
+      "ects": 180,
+      "years": 4,
+      "grade": null,
+      "vagas": 20,
+      "exams": [
+        "Economia",
+        "Filosofia",
+        "Geografia",
+        "Inglês",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9148&code=3087"
+    },
+    {
+      "id": "7035-L068",
+      "name": "Ciências Biomédicas Laboratoriais",
+      "area": "saude",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Faro",
+      "region": "Faro",
+      "ects": 240,
+      "years": 4,
+      "grade": null,
+      "vagas": 31,
+      "exams": [
+        "Biologia e Geologia",
+        "Física e Química",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L068&code=7035"
+    },
+    {
+      "id": "7035-9500",
+      "name": "Enfermagem",
+      "area": "saude",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Faro",
+      "region": "Faro",
+      "ects": 240,
+      "years": 4,
+      "grade": null,
+      "vagas": 40,
+      "exams": [
+        "Biologia e Geologia",
+        "Física e Química",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=7035"
+    },
+    {
+      "id": "7035-9504",
+      "name": "Fisioterapia",
+      "area": "saude",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Faro",
+      "region": "Faro",
+      "ects": 240,
+      "years": 4,
+      "grade": null,
+      "vagas": 26,
+      "exams": [
+        "Biologia e Geologia",
+        "Física e Química",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9504&code=7035"
     },
     {
       "id": "7035-9890",
@@ -5702,25 +6123,6 @@
         "Português"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9890&code=7035"
-    },
-    {
-      "id": "3083-9089",
-      "name": "Engenharia Civil",
-      "area": "tec",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Faro",
-      "region": "Faro",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 20,
-      "exams": [
-        "Física e Química",
-        "Matemática"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9089&code=3083"
     },
     {
       "id": "3083-L209",
@@ -5745,8 +6147,91 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L209&code=3083"
     },
     {
-      "id": "3012-L346",
-      "name": "Engenharia Informática Aplicada",
+      "id": "3083-L269",
+      "name": "Engenharia de Sistemas e Tecnologias Informáticas",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Faro",
+      "region": "Faro",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 20,
+      "exams": [
+        "Economia",
+        "Física e Química",
+        "Geometria Descritiva",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L269&code=3083"
+    },
+    {
+      "id": "3014-L138",
+      "name": "Design de Produto e Tecnologia",
+      "area": "tec",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Santiago De Riba",
+      "region": "Leiria",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 38,
+      "exams": [
+        "Desenho",
+        "Geometria Descritiva",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L138&code=3014"
+    },
+    {
+      "id": "3013-9500",
+      "name": "Enfermagem",
+      "area": "saude",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Aveiro",
+      "region": "Leiria",
+      "ects": 240,
+      "years": 4,
+      "grade": null,
+      "vagas": 82,
+      "exams": [
+        "Biologia e Geologia",
+        "Física e Química",
+        "Matemática"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=3013"
+    },
+    {
+      "id": "3013-L066",
+      "name": "Imagem Médica e Radioterapia",
+      "area": "saude",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Aveiro",
+      "region": "Leiria",
+      "ects": 240,
+      "years": 4,
+      "grade": null,
+      "vagas": 25,
+      "exams": [
+        "Biologia e Geologia",
+        "Física e Química",
+        "Matemática"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L066&code=3013"
+    },
+    {
+      "id": "3012-L194",
+      "name": "Eletrónica e Mecânica Industrial",
       "area": "tec",
       "degree": "Licenciatura",
       "inst": "DGES",
@@ -5756,15 +6241,14 @@
       "ects": 180,
       "years": 3,
       "grade": null,
-      "vagas": 27,
+      "vagas": 35,
       "exams": [
-        "Biologia e Geologia",
         "Física e Química",
         "Geometria Descritiva",
         "Matemática",
         "Português"
       ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L346&code=3012"
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L194&code=3012"
     },
     {
       "id": "3012-L021",
@@ -5790,29 +6274,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L021&code=3012"
     },
     {
-      "id": "3012-L140",
-      "name": "Gestão Pública",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Águeda",
-      "region": "Leiria",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 19,
-      "exams": [
-        "Biologia e Geologia",
-        "Economia",
-        "Física e Química",
-        "Geografia",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=L140&code=3012"
-    },
-    {
       "id": "3012-8405",
       "name": "Gestão da Qualidade",
       "area": "gest",
@@ -5836,28 +6297,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=8405&code=3012"
     },
     {
-      "id": "3012-9235",
-      "name": "Secretariado e Comunicação Empresarial",
-      "area": "com",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Águeda",
-      "region": "Leiria",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 25,
-      "exams": [
-        "Economia",
-        "Geografia",
-        "História",
-        "Inglês",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9235&code=3012"
-    },
-    {
       "id": "3011-9056",
       "name": "Contabilidade",
       "area": "gest",
@@ -5878,26 +6317,6 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9056&code=3011"
     },
     {
-      "id": "3011-9869",
-      "name": "Contabilidade (regime pós-laboral)",
-      "area": "gest",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Aveiro",
-      "region": "Leiria",
-      "ects": 180,
-      "years": 3,
-      "grade": null,
-      "vagas": 20,
-      "exams": [
-        "Economia",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9869&code=3011"
-    },
-    {
       "id": "3011-9140",
       "name": "Finanças",
       "area": "gest",
@@ -5916,6 +6335,26 @@
         "Português"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9140&code=3011"
+    },
+    {
+      "id": "3011-9205",
+      "name": "Marketing",
+      "area": "gest",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Aveiro",
+      "region": "Leiria",
+      "ects": 180,
+      "years": 3,
+      "grade": null,
+      "vagas": 33,
+      "exams": [
+        "Economia",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9205&code=3011"
     },
     {
       "id": "7240-9500",
@@ -5939,47 +6378,25 @@
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=7240"
     },
     {
-      "id": "7030-9500",
+      "id": "7260-9500",
       "name": "Enfermagem",
       "area": "saude",
       "degree": "Licenciatura",
       "inst": "DGES",
       "instName": "DGES",
-      "city": "Évora",
-      "region": "Évora",
+      "city": "Lisboa",
+      "region": "Lisboa",
       "ects": 240,
       "years": 4,
       "grade": null,
-      "vagas": 71,
-      "exams": [
-        "Biologia e Geologia",
-        "Filosofia",
-        "Física e Química",
-        "Geografia",
-        "Matemática",
-        "Português"
-      ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=7030"
-    },
-    {
-      "id": "1320-9500",
-      "name": "Enfermagem",
-      "area": "saude",
-      "degree": "Licenciatura",
-      "inst": "DGES",
-      "instName": "DGES",
-      "city": "Funchal",
-      "region": "Madeira",
-      "ects": 240,
-      "years": 4,
-      "grade": null,
-      "vagas": 26,
+      "vagas": 278,
       "exams": [
         "Biologia e Geologia",
         "Física e Química",
+        "Matemática A",
         "Português"
       ],
-      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=1320"
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=7260"
     },
     {
       "id": "1321-9076",
@@ -6000,6 +6417,27 @@
         "Português"
       ],
       "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9076&code=1321"
+    },
+    {
+      "id": "7270-9500",
+      "name": "Enfermagem",
+      "area": "saude",
+      "degree": "Licenciatura",
+      "inst": "DGES",
+      "instName": "DGES",
+      "city": "Porto",
+      "region": "Porto",
+      "ects": 240,
+      "years": 4,
+      "grade": null,
+      "vagas": 257,
+      "exams": [
+        "Biologia e Geologia",
+        "Física e Química",
+        "Matemática",
+        "Português"
+      ],
+      "url": "https://www.dges.gov.pt/guias/detcursopi.asp?codc=9500&code=7270"
     }
   ]
 }
